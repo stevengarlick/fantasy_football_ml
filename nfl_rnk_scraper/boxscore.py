@@ -26,11 +26,25 @@ for link in boxscores.findAll('a', href=True, text='boxscore'):
     soup = BeautifulSoup(driver.page_source,'lxml')
     driver.quit()
     table = soup.find('table',{"class":"suppress_all sortable stats_table now_sortable"})
-    for td in table.find_all("tr")[5].find_all('td'):
-        spread = td.get_text(strip=True)
-    for td in table.find_all("tr")[6].find_all('td'):
-        ou = td.get_text(strip=True)
+    i = 1
+    while i < 7:
+        try:
+            test = table.find_all("tr")[i].find_all('th')
+        except:
+            i = 8
+        else:
+            for th in table.find_all("tr")[i].find_all('th'):
+                if th.get_text(strip=True) == 'Vegas Line':
+                    for td in table.find_all("tr")[i].find_all('td'):
+                        spread = td.get_text(strip=True)
+
+                    for td in table.find_all("tr")[i+1].find_all('td'):
+                        ou = td.get_text(strip=True)
+                        i = 8
+                else:
+                    i = i + 1
+
     record = [year, awaytm, hometm, spread, ou]
     df1 = df1.append(pd.DataFrame([record], columns = columns), ignore_index = True)
 
-df.to_csv('/Users/User1/ml-seed-data/2012spreads.csv', sep='|')
+df.to_csv('/Users/s_garlick10/seed-data/2012spreads.csv', sep='|')
