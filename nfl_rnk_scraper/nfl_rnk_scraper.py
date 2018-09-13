@@ -4,6 +4,7 @@ import pandas as pd
 from datetime import datetime
 from datetime import timedelta
 import time
+import numpy as np
 
 def date_run(url, site):
     week_num = 1
@@ -41,25 +42,27 @@ def date_run(url, site):
 
 url = 'https://www.teamrankings.com/nfl/stat/'
 
-catoff = ['points-per-game','red-zone-scoring-attempts-per-game','red-zone-scoring-pct',
-'two-point-conversion-attempts-per-game','two-point-conversions-per-game',
-'yards-per-game','plays-per-game','fourth-downs-per-game',
-'fourth-down-conversion-pct', 'giveaways-per-game', 'penalties-per-game',
-'penalty-yards-per-game']
+#catoff = ['points-per-game','red-zone-scoring-attempts-per-game','red-zone-scoring-pct',
+#'two-point-conversion-attempts-per-game','two-point-conversions-per-game',
+#'yards-per-game','plays-per-game','fourth-downs-per-game',
+#'fourth-down-conversion-pct', 'giveaways-per-game', 'penalties-per-game',
+#'penalty-yards-per-game']
 
-catdef = ['opponent-points-per-game','opponent-red-zone-scoring-attempts-per-game','opponent-red-zone-scoring-pct',
-'opponent-two-point-conversion-attempts-per-game','opponent-two-point-conversions-per-game',
-'opponent-yards-per-game','opponent-plays-per-game','opponent-fourth-downs-per-game',
-'opponent-fourth-down-conversion-pct', 'takeaways-per-game', 'penalties-per-game',
-'penalty-yards-per-game']
+catoff = ['first-downs-per-game','third-downs-per-game','third-down-conversions-per-game']
+catdef = ['opponent-first-downs-per-game','opponent-third-downs-per-game','opponent-third-down-conversions-per-game' ]
+
+#catdef = ['opponent-points-per-game','opponent-red-zone-scoring-attempts-per-game','opponent-red-zone-scoring-pct',
+#'opponent-two-point-conversion-attempts-per-game','opponent-two-point-conversions-per-game',
+#'opponent-yards-per-game','opponent-plays-per-game','opponent-fourth-downs-per-game',
+#'opponent-fourth-down-conversion-pct', 'takeaways-per-game', 'penalties-per-game',
+#'penalty-yards-per-game']
 
 startdate = ['2011-09-07','2012-09-04','2013-09-04','2014-09-03','2015-09-09','2016-09-08','2017-09-06','2018-09-05']
 
 enddate = ['2012-01-01','2012-12-30','2013-12-29','2014-12-28','2016-01-03','2017-01-01','2017-12-31','2018-09-12']
 
-df = pd.read_csv('/Users/User1/ml-seed-data/spreads.csv',header=0)
-df2 = pd.read_csv('/Users/User1/ml-seed-data/fga.csv',header=0)
-df = pd.merge(df, df2, how = 'left', on=['week','year','team'])
+df = pd.read_csv('/Users/s_garlick10/fantasy_football_ml/full_data.csv',header=0)
+
 df[['week']] = df[['week']].astype('int')
 df[['year']] = df[['year']].astype('int')
 df[['team']] = df[['team']].astype('object')
@@ -80,4 +83,5 @@ for site in catdef:
     df1[['opponent']] = df1[['opponent']].astype('object')
     df = pd.merge(df, df1, on=['week','year','opponent'])
 
-df.to_csv('/Users/User1/ml-seed-data/' + year + '.csv', sep='|')
+
+df.to_csv(str(year) + '-2.csv', sep='|')
