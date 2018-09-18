@@ -1,0 +1,3617 @@
+|team|fga
+0|New Orleans|2
+1|Philadelphia|1
+2|Pittsburgh|0
+3|Indianapolis|1
+4|Tennessee|1
+5|Cincinnati|2
+6|Buffalo|2
+7|Detroit|2
+8|Atlanta|2
+9|Carolina|0
+10|Minnesota|1
+11|Seattle|1
+12|NY Giants|1
+13|Dallas|1
+14|New England|2
+15|Oakland|3
+16|Jacksonville|1
+17|Kansas City|2
+18|Chicago|2
+19|Seattle|0
+20|Green Bay|3
+21|Cleveland|2
+22|Baltimore|2
+23|Oakland|0
+24|Arizona|0
+25|Tampa Bay|1
+26|Dallas|3
+27|LA Chargers|0
+28|Cincinnati|3
+29|Houston|3
+30|Philadelphia|2
+31|LA Rams|3
+32|San Francisco|2
+33|Jacksonville|1
+34|Denver|0
+35|Miami|4
+36|Houston|4
+37|New England|1
+38|NY Giants|0
+39|Detroit|4
+40|NY Jets|1
+41|Baltimore|5
+42|Kansas City|2
+43|Arizona|3
+44|Green Bay|2
+45|Atlanta|2
+46|Pittsburgh|4
+47|Washington|4
+48|Washington|1
+49|Minnesota|1
+50|Detroit|2
+51|San Francisco|3
+52|Tennessee|1
+53|Pittsburgh|2
+54|New Orleans|5
+55|Buffalo|2
+56|Carolina|5
+57|NY Giants|1
+58|Atlanta|3
+59|Denver|1
+60|New England|1
+61|Miami|3
+62|NY Jets|1
+63|Indianapolis|2
+64|Tennessee|1
+65|Kansas City|0
+66|Oakland|4
+67|Cincinnati|1
+68|New Orleans|3
+69|Seattle|2
+70|Philadelphia|1
+71|Arizona|1
+72|Tampa Bay|1
+73|NY Jets|0
+74|LA Chargers|5
+75|Green Bay|4
+76|Chicago|2
+77|LA Rams|2
+78|Buffalo|1
+79|Indianapolis|2
+80|Carolina|1
+81|Jacksonville|2
+82|San Francisco|3
+83|Philadelphia|2
+84|Cleveland|1
+85|Houston|0
+86|Dallas|3
+87|New Orleans|2
+88|Minnesota|2
+89|Miami|2
+90|Denver|3
+91|Houston|2
+92|LA Chargers|0
+93|Seattle|1
+94|Chicago|2
+95|Washington|2
+96|Atlanta|3
+97|Pittsburgh|3
+98|LA Rams|0
+99|Green Bay|4
+100|Kansas City|0
+101|Indianapolis|0
+102|Baltimore|1
+103|New Orleans|1
+104|Arizona|2
+105|Miami|1
+106|Jacksonville|0
+107|Indianapolis|1
+108|Minnesota|2
+109|Washington|1
+110|Detroit|1
+111|Cleveland|1
+112|New England|2
+113|Cincinnati|2
+114|Dallas|0
+115|LA Chargers|5
+116|Seattle|3
+117|Atlanta|1
+118|Miami|1
+119|Cleveland|2
+120|NY Jets|3
+121|San Francisco|4
+122|Tampa Bay|3
+123|Denver|2
+124|Cincinnati|1
+125|NY Giants|1
+126|LA Rams|4
+127|Green Bay|1
+128|Baltimore|4
+129|Chicago|3
+130|Oakland|1
+131|Pittsburgh|1
+132|Arizona|2
+133|Buffalo|1
+134|Jacksonville|2
+135|Houston|2
+136|New Orleans|5
+137|Denver|2
+138|LA Rams|2
+139|Washington|5
+140|Tennessee|3
+141|Baltimore|3
+142|NY Giants|2
+143|Detroit|2
+144|New England|3
+145|Minnesota|1
+146|NY Jets|4
+147|Tampa Bay|2
+148|Buffalo|2
+149|Cincinnati|1
+150|Carolina|2
+151|Jacksonville|1
+152|Dallas|2
+153|Oakland|3
+154|Arizona|0
+155|Seattle|1
+156|Tennessee|1
+157|LA Chargers|3
+158|Philadelphia|1
+159|Kansas City|1
+160|Green Bay|2
+161|Miami|5
+162|San Francisco|2
+163|Arizona|3
+164|Tampa Bay|1
+165|Buffalo|1
+166|Cleveland|3
+167|Minnesota|0
+168|Carolina|3
+169|Houston|2
+170|Chicago|2
+171|Washington|2
+172|Denver|3
+173|New England|2
+174|Pittsburgh|2
+175|NY Giants|2
+176|Philadelphia|0
+177|Carolina|1
+178|Indianapolis|1
+179|Tennessee|3
+180|Cincinnati|1
+181|Atlanta|1
+182|NY Jets|3
+183|Kansas City|1
+184|Oakland|0
+185|Denver|2
+186|Baltimore|3
+187|Green Bay|2
+188|Dallas|4
+189|LA Rams|0
+190|Detroit|3
+191|LA Chargers|1
+192|Cleveland|1
+193|Houston|3
+194|Indianapolis|1
+195|Kansas City|1
+196|New England|2
+197|Philadelphia|1
+198|Tampa Bay|0
+199|Minnesota|0
+200|New Orleans|3
+201|Atlanta|2
+202|San Francisco|5
+203|Chicago|1
+204|Buffalo|2
+205|Oakland|0
+206|NY Giants|2
+207|LA Rams|2
+208|Jacksonville|0
+209|Dallas|1
+210|Cincinnati|2
+211|Miami|3
+212|Washington|3
+213|Tennessee|2
+214|Green Bay|1
+215|Seattle|1
+216|Carolina|0
+217|New Orleans|1
+218|Detroit|0
+219|Cleveland|1
+220|New England|2
+221|NY Jets|2
+222|Baltimore|1
+223|Pittsburgh|2
+224|Houston|3
+225|LA Rams|2
+226|Miami|1
+227|Denver|0
+228|Jacksonville|1
+229|Arizona|1
+230|Oakland|4
+231|NY Giants|2
+232|Cleveland|0
+233|Tampa Bay|1
+234|Minnesota|3
+235|LA Chargers|1
+236|Philadelphia|2
+237|San Francisco|5
+238|Chicago|3
+239|Atlanta|3
+240|San Francisco|3
+241|Tennessee|3
+242|Detroit|2
+243|NY Jets|1
+244|Washington|2
+245|Buffalo|1
+246|Indianapolis|2
+247|Carolina|1
+248|Chicago|1
+249|Seattle|3
+250|LA Chargers|2
+251|Baltimore|1
+252|Pittsburgh|3
+253|Kansas City|1
+254|Tampa Bay|1
+255|Dallas|1
+256|Green Bay|0
+257|LA Rams|3
+258|Baltimore|2
+259|Houston|2
+260|Jacksonville|3
+261|Cleveland|1
+262|Kansas City|1
+263|Tampa Bay|2
+264|Chicago|3
+265|Arizona|1
+266|LA Chargers|1
+267|San Francisco|4
+268|Washington|1
+269|NY Jets|2
+270|Miami|1
+271|Denver|3
+272|NY Jets|3
+273|Detroit|2
+274|New Orleans|3
+275|Pittsburgh|2
+276|Carolina|3
+277|Indianapolis|4
+278|Tennessee|5
+279|Buffalo|2
+280|Washington|4
+281|Minnesota|2
+282|San Francisco|1
+283|New England|2
+284|Denver|1
+285|Miami|4
+286|Atlanta|0
+287|NY Giants|0
+288|Cincinnati|2
+289|Carolina|2
+290|Tennessee|1
+291|Cleveland|1
+292|New Orleans|1
+293|Buffalo|2
+294|Philadelphia|3
+295|Minnesota|3
+296|Oakland|3
+297|LA Rams|0
+298|LA Chargers|2
+299|Seattle|2
+300|Chicago|1
+301|Tampa Bay|3
+302|Indianapolis|2
+303|Dallas|6
+304|LA Rams|1
+305|Kansas City|5
+306|Dallas|3
+307|Philadelphia|5
+308|Cleveland|2
+309|Houston|1
+310|Jacksonville|1
+311|Cincinnati|3
+312|Chicago|2
+313|Arizona|2
+314|Seattle|1
+315|Green Bay|0
+316|Oakland|2
+317|LA Chargers|4
+318|Baltimore|2
+319|Tampa Bay|2
+320|Pittsburgh|1
+321|Indianapolis|1
+322|Houston|3
+323|Jacksonville|2
+324|Carolina|0
+325|NY Giants|1
+326|Buffalo|1
+327|Minnesota|3
+328|San Francisco|2
+329|New England|3
+330|Denver|1
+331|Atlanta|0
+332|Detroit|1
+333|Green Bay|1
+334|NY Giants|3
+335|Cincinnati|3
+336|Atlanta|1
+337|Pittsburgh|2
+338|Detroit|3
+339|Washington|2
+340|Oakland|1
+341|Baltimore|5
+342|New England|2
+343|Tampa Bay|5
+344|Chicago|3
+345|NY Jets|1
+346|Miami|3
+347|Tennessee|0
+348|NY Jets|2
+349|Cleveland|4
+350|Tampa Bay|1
+351|Carolina|4
+352|Detroit|3
+353|Arizona|0
+354|Dallas|2
+355|Minnesota|2
+356|Oakland|0
+357|New Orleans|2
+358|Jacksonville|4
+359|LA Rams|1
+360|Baltimore|3
+361|NY Giants|2
+362|Houston|2
+363|Tennessee|2
+364|Carolina|1
+365|Buffalo|4
+366|Denver|1
+367|San Francisco|2
+368|Pittsburgh|4
+369|Seattle|2
+370|Philadelphia|2
+371|Kansas City|3
+372|Dallas|3
+373|Indianapolis|0
+374|Kansas City|1
+375|Houston|3
+376|Buffalo|1
+377|Washington|1
+378|New Orleans|3
+379|Oakland|1
+380|Tennessee|1
+381|New England|3
+382|Arizona|2
+383|LA Chargers|1
+384|Pittsburgh|2
+385|Philadelphia|1
+386|LA Chargers|2
+387|Cincinnati|1
+388|Philadelphia|1
+389|Dallas|3
+390|Indianapolis|1
+391|Tampa Bay|1
+392|Atlanta|4
+393|Kansas City|1
+394|Cleveland|5
+395|Miami|3
+396|Carolina|2
+397|Seattle|5
+398|San Francisco|4
+399|Chicago|4
+400|NY Jets|1
+401|Green Bay|1
+402|Denver|1
+403|Green Bay|1
+404|Miami|0
+405|Baltimore|1
+406|Detroit|0
+407|Cleveland|1
+408|Washington|3
+409|Minnesota|0
+410|San Francisco|6
+411|LA Rams|0
+412|Atlanta|3
+413|Chicago|1
+414|NY Giants|1
+415|New England|2
+416|Detroit|1
+417|Dallas|2
+418|Baltimore|3
+419|LA Rams|3
+420|Tennessee|4
+421|NY Jets|0
+422|Cincinnati|3
+423|Atlanta|1
+424|Indianapolis|2
+425|Jacksonville|3
+426|Oakland|6
+427|Seattle|2
+428|LA Chargers|4
+429|Philadelphia|2
+430|Kansas City|3
+431|New Orleans|0
+432|Seattle|1
+433|Tampa Bay|4
+434|New England|1
+435|Buffalo|1
+436|Pittsburgh|1
+437|Houston|2
+438|Washington|4
+439|Chicago|2
+440|Miami|2
+441|Minnesota|3
+442|Cleveland|1
+443|NY Giants|2
+444|Arizona|2
+445|San Francisco|4
+446|New Orleans|1
+447|Jacksonville|0
+448|Pittsburgh|0
+449|Cincinnati|4
+450|Baltimore|1
+451|NY Jets|0
+452|Washington|2
+453|Miami|2
+454|Jacksonville|0
+455|Detroit|2
+456|Tennessee|1
+457|Carolina|1
+458|Arizona|0
+459|Denver|3
+460|LA Chargers|1
+461|Green Bay|4
+462|Dallas|3
+463|Seattle|4
+464|Atlanta|2
+465|Tampa Bay|0
+466|LA Rams|3
+467|Buffalo|2
+468|NY Giants|2
+469|Indianapolis|2
+470|Kansas City|4
+471|Chicago|0
+472|Houston|3
+473|Minnesota|2
+474|Oakland|3
+475|Arizona|2
+476|Denver|1
+477|Philadelphia|1
+478|LA Chargers|3
+479|San Francisco|2
+480|Indianapolis|5
+481|Pittsburgh|2
+482|New England|3
+483|Buffalo|6
+484|Tennessee|3
+485|Cincinnati|5
+486|Kansas City|4
+487|NY Jets|1
+488|Baltimore|2
+489|Carolina|2
+490|Washington|4
+491|Detroit|1
+492|Dallas|0
+493|Seattle|1
+494|Green Bay|0
+495|New Orleans|1
+496|LA Rams|2
+497|Houston|3
+498|Green Bay|2
+499|Miami|4
+500|Philadelphia|2
+501|New England|2
+502|Jacksonville|4
+503|New Orleans|1
+504|Minnesota|3
+505|Arizona|3
+506|Oakland|4
+507|Cincinnati|4
+508|Cleveland|3
+509|Denver|1
+510|Atlanta|1
+511|NY Giants|2
+512|Dallas|1
+513|Indianapolis|1
+514|Buffalo|0
+515|Washington|4
+516|New England|2
+517|LA Rams|3
+518|Philadelphia|2
+519|Miami|1
+520|Atlanta|4
+521|Jacksonville|3
+522|Seattle|4
+523|San Francisco|3
+524|Carolina|1
+525|Pittsburgh|2
+526|Cincinnati|2
+527|LA Chargers|5
+528|Chicago|1
+529|Kansas City|1
+530|Arizona|2
+531|Oakland|2
+532|Cleveland|2
+533|Minnesota|2
+534|Baltimore|3
+535|Houston|2
+536|Tampa Bay|2
+537|New Orleans|2
+538|Washington|1
+539|Dallas|0
+540|Tennessee|1
+541|NY Jets|1
+542|Detroit|5
+543|Denver|0
+544|NY Giants|5
+545|Buffalo|1
+546|Kansas City|6
+547|Detroit|4
+548|NY Jets|3
+549|Cincinnati|1
+550|Jacksonville|3
+551|LA Rams|2
+552|Tampa Bay|1
+553|San Francisco|3
+554|Atlanta|0
+555|Philadelphia|2
+556|Houston|1
+557|Pittsburgh|1
+558|New England|3
+559|Green Bay|2
+560|Cleveland|3
+561|Seattle|2
+562|New England|3
+563|San Francisco|4
+564|Minnesota|3
+565|Tennessee|0
+566|Carolina|0
+567|LA Chargers|3
+568|Oakland|2
+569|Cincinnati|2
+570|Miami|3
+571|New Orleans|3
+572|Washington|4
+573|NY Giants|2
+574|Chicago|2
+575|Arizona|2
+576|Cleveland|2
+577|Baltimore|3
+578|Philadelphia|0
+579|Green Bay|2
+580|Miami|2
+581|Atlanta|1
+582|Seattle|3
+583|Chicago|2
+584|Tennessee|0
+585|Buffalo|1
+586|Denver|0
+587|LA Chargers|2
+588|Houston|3
+589|Pittsburgh|4
+590|LA Rams|5
+591|Kansas City|1
+592|Oakland|2
+593|Dallas|4
+594|Indianapolis|3
+595|Cincinnati|1
+596|Detroit|4
+597|New England|3
+598|Buffalo|1
+599|NY Giants|5
+600|Minnesota|4
+601|Green Bay|0
+602|Denver|0
+603|Seattle|3
+604|Green Bay|4
+605|New Orleans|0
+606|Baltimore|2
+607|Cleveland|0
+608|Tennessee|0
+609|Dallas|4
+610|Washington|3
+611|Arizona|1
+612|Jacksonville|3
+613|NY Jets|4
+614|Pittsburgh|3
+615|Detroit|0
+616|Tampa Bay|3
+617|Washington|2
+618|Atlanta|3
+619|Seattle|2
+620|Carolina|5
+621|Jacksonville|3
+622|Indianapolis|3
+623|Miami|3
+624|New England|1
+625|LA Chargers|2
+626|Oakland|4
+627|NY Giants|5
+628|New Orleans|0
+629|San Francisco|1
+630|Kansas City|3
+631|Miami|2
+632|Denver|1
+633|Buffalo|4
+634|Arizona|1
+635|Baltimore|1
+636|Chicago|3
+637|Detroit|2
+638|Carolina|1
+639|Tampa Bay|2
+640|Minnesota|2
+641|Pittsburgh|1
+642|Dallas|3
+643|Philadelphia|2
+644|Indianapolis|2
+645|Atlanta|2
+646|Buffalo|1
+647|Denver|3
+648|Oakland|2
+649|Tennessee|3
+650|LA Chargers|1
+651|NY Giants|2
+652|Detroit|1
+653|NY Jets|0
+654|Dallas|1
+655|LA Rams|2
+656|Houston|2
+657|Kansas City|3
+658|Miami|1
+659|NY Jets|4
+660|Green Bay|3
+661|Cincinnati|1
+662|Jacksonville|3
+663|Arizona|4
+664|Philadelphia|2
+665|Cleveland|2
+666|Tampa Bay|2
+667|New Orleans|1
+668|Indianapolis|2
+669|LA Chargers|0
+670|Baltimore|3
+671|Chicago|0
+672|Houston|3
+673|Washington|1
+674|New England|1
+675|Minnesota|2
+676|Pittsburgh|0
+677|Oakland|1
+678|Atlanta|3
+679|Tennessee|5
+680|Seattle|0
+681|Denver|3
+682|Buffalo|2
+683|Baltimore|3
+684|LA Rams|2
+685|San Francisco|3
+686|Green Bay|2
+687|Carolina|1
+688|New Orleans|2
+689|San Francisco|3
+690|Jacksonville|1
+691|Minnesota|1
+692|Houston|1
+693|New England|4
+694|Seattle|1
+695|Carolina|0
+696|Indianapolis|0
+697|Arizona|2
+698|Tampa Bay|3
+699|Pittsburgh|3
+700|Cleveland|3
+701|Cincinnati|2
+702|Philadelphia|2
+703|NY Giants|4
+704|Denver|4
+705|LA Rams|0
+706|NY Jets|1
+707|Tennessee|4
+708|LA Chargers|2
+709|Kansas City|1
+710|Philadelphia|3
+711|Dallas|2
+712|Baltimore|0
+713|Atlanta|0
+714|Chicago|0
+715|Miami|2
+716|Arizona|0
+717|New Orleans|2
+718|Detroit|3
+719|Houston|0
+720|Cincinnati|2
+721|Minnesota|5
+722|Denver|3
+723|Indianapolis|1
+724|Tampa Bay|0
+725|Washington|1
+726|NY Giants|1
+727|Green Bay|2
+728|Jacksonville|1
+729|Detroit|1
+730|Carolina|1
+731|Seattle|3
+732|Kansas City|0
+733|Pittsburgh|1
+734|San Francisco|3
+735|NY Jets|1
+736|Atlanta|1
+737|New England|3
+738|New Orleans|3
+739|Cincinnati|3
+740|Tennessee|0
+741|Buffalo|1
+742|Minnesota|3
+743|Indianapolis|2
+744|LA Rams|0
+745|Washington|2
+746|LA Chargers|2
+747|Oakland|2
+748|Cleveland|2
+749|Chicago|1
+750|NY Giants|0
+751|San Francisco|3
+752|Tampa Bay|3
+753|NY Jets|4
+754|Jacksonville|0
+755|Houston|4
+756|Cleveland|2
+757|Carolina|4
+758|Chicago|5
+759|Baltimore|2
+760|Philadelphia|1
+761|Oakland|0
+762|Green Bay|2
+763|Miami|1
+764|Arizona|2
+765|Kansas City|2
+766|LA Rams|3
+767|Dallas|1
+768|NY Giants|1
+769|Chicago|2
+770|NY Jets|2
+771|New Orleans|1
+772|Tennessee|2
+773|Detroit|2
+774|Cleveland|3
+775|Houston|4
+776|Kansas City|2
+777|Minnesota|4
+778|Arizona|2
+779|Green Bay|0
+780|Tampa Bay|3
+781|Denver|1
+782|Baltimore|3
+783|Oakland|2
+784|Green Bay|3
+785|Buffalo|0
+786|New England|5
+787|Miami|0
+788|Cincinnati|2
+789|Indianapolis|3
+790|Philadelphia|1
+791|Jacksonville|0
+792|NY Giants|4
+793|Carolina|0
+794|LA Rams|3
+795|Seattle|2
+796|LA Chargers|1
+797|Pittsburgh|2
+798|San Francisco|2
+799|Atlanta|2
+800|Carolina|0
+801|Cleveland|0
+802|New Orleans|2
+803|Tennessee|5
+804|Miami|4
+805|Washington|1
+806|Indianapolis|2
+807|Chicago|3
+808|Dallas|3
+809|Minnesota|1
+810|LA Chargers|1
+811|Arizona|2
+812|Denver|3
+813|Oakland|2
+814|Baltimore|1
+815|Seattle|0
+816|Baltimore|2
+817|LA Rams|4
+818|Buffalo|0
+819|NY Jets|0
+820|Detroit|2
+821|Houston|1
+822|Atlanta|3
+823|Kansas City|0
+824|Denver|3
+825|Jacksonville|1
+826|Arizona|1
+827|Green Bay|0
+828|Tampa Bay|3
+829|Philadelphia|4
+830|Dallas|1
+831|LA Rams|1
+832|NY Giants|2
+833|Kansas City|2
+834|Pittsburgh|3
+835|Indianapolis|4
+836|Cincinnati|3
+837|Washington|2
+838|Carolina|1
+839|Jacksonville|1
+840|Minnesota|3
+841|San Francisco|1
+842|New England|1
+843|New Orleans|1
+844|NY Jets|1
+845|Tennessee|4
+846|Miami|1
+847|Tampa Bay|2
+848|Atlanta|4
+849|Baltimore|1
+850|NY Jets|0
+851|Cleveland|2
+852|Philadelphia|3
+853|Seattle|1
+854|Arizona|4
+855|San Francisco|3
+856|Washington|1
+857|Houston|1
+858|LA Chargers|1
+859|San Francisco|2
+860|LA Rams|2
+861|Tampa Bay|1
+862|Houston|2
+863|Indianapolis|1
+864|Buffalo|2
+865|Carolina|0
+866|NY Giants|2
+867|Minnesota|0
+868|Oakland|5
+869|New England|2
+870|Cincinnati|1
+871|Chicago|3
+872|Minnesota|1
+873|Pittsburgh|2
+874|Philadelphia|1
+875|Detroit|0
+876|Chicago|2
+877|Green Bay|2
+878|Tennessee|3
+879|NY Jets|2
+880|LA Rams|0
+881|Cleveland|0
+882|Kansas City|3
+883|Dallas|1
+884|Denver|2
+885|Arizona|1
+886|LA Chargers|1
+887|Indianapolis|5
+888|Cincinnati|4
+889|Houston|1
+890|Green Bay|2
+891|Cleveland|5
+892|Tennessee|1
+893|Jacksonville|0
+894|Washington|2
+895|Oakland|1
+896|Seattle|1
+897|NY Giants|3
+898|Atlanta|6
+899|New Orleans|1
+900|Jacksonville|2
+901|New Orleans|1
+902|New England|3
+903|Carolina|1
+904|Baltimore|2
+905|Miami|1
+906|Tampa Bay|2
+907|Cincinnati|1
+908|Minnesota|4
+909|Seattle|0
+910|Philadelphia|1
+911|San Francisco|2
+912|Chicago|3
+913|Pittsburgh|3
+914|Buffalo|4
+915|LA Rams|0
+916|Detroit|2
+917|Kansas City|2
+918|Houston|5
+919|Atlanta|3
+920|Washington|1
+921|Dallas|3
+922|Carolina|1
+923|Oakland|1
+924|New England|2
+925|Denver|4
+926|Pittsburgh|1
+927|San Francisco|3
+928|Detroit|2
+929|Dallas|3
+930|NY Jets|1
+931|Chicago|3
+932|Cleveland|2
+933|Cincinnati|3
+934|Tampa Bay|4
+935|Jacksonville|1
+936|Miami|1
+937|Kansas City|3
+938|Indianapolis|2
+939|LA Chargers|2
+940|Arizona|1
+941|New Orleans|0
+942|NY Giants|1
+943|Philadelphia|3
+944|Atlanta|3
+945|LA Rams|3
+946|Buffalo|2
+947|Green Bay|4
+948|Tennessee|1
+949|Miami|3
+950|Chicago|1
+951|Kansas City|2
+952|Detroit|4
+953|NY Jets|2
+954|Denver|2
+955|Baltimore|2
+956|Oakland|2
+957|LA Chargers|3
+958|Dallas|1
+959|Washington|1
+960|Oakland|0
+961|Buffalo|2
+962|Jacksonville|2
+963|Indianapolis|2
+964|Pittsburgh|1
+965|Cleveland|3
+966|Tampa Bay|0
+967|Cincinnati|4
+968|Washington|3
+969|Carolina|3
+970|Minnesota|0
+971|San Francisco|2
+972|Seattle|3
+973|NY Giants|2
+974|Green Bay|3
+975|New England|0
+976|Philadelphia|2
+977|LA Rams|1
+978|Baltimore|1
+979|Houston|6
+980|New Orleans|2
+981|Cleveland|0
+982|Atlanta|2
+983|Chicago|2
+984|Miami|3
+985|Arizona|1
+986|LA Chargers|0
+987|Buffalo|1
+988|Oakland|6
+989|Dallas|2
+990|New England|2
+991|Tennessee|1
+992|Detroit|3
+993|Jacksonville|4
+994|Dallas|1
+995|Pittsburgh|3
+996|Green Bay|2
+997|Miami|2
+998|Houston|2
+999|Kansas City|3
+1000|Tampa Bay|2
+1001|Philadelphia|2
+1002|NY Jets|1
+1003|Carolina|2
+1004|Denver|2
+1005|Arizona|2
+1006|Baltimore|4
+1007|Seattle|0
+1008|Atlanta|1
+1009|Buffalo|2
+1010|Tennessee|1
+1011|Indianapolis|0
+1012|Pittsburgh|1
+1013|New Orleans|1
+1014|Detroit|1
+1015|Cincinnati|3
+1016|NY Giants|0
+1017|LA Chargers|1
+1018|Minnesota|3
+1019|New England|0
+1020|San Francisco|4
+1021|Denver|1
+1022|Seattle|2
+1023|Washington|1
+1024|Baltimore|2
+1025|Minnesota|1
+1026|Miami|3
+1027|New England|3
+1028|Cincinnati|0
+1029|Oakland|2
+1030|Tennessee|3
+1031|Tampa Bay|1
+1032|Kansas City|0
+1033|Atlanta|1
+1034|Seattle|2
+1035|Arizona|2
+1036|Green Bay|0
+1037|NY Giants|1
+1038|Philadelphia|1
+1039|Houston|2
+1040|NY Jets|1
+1041|Washington|1
+1042|Dallas|3
+1043|Cleveland|2
+1044|Carolina|3
+1045|LA Chargers|4
+1046|Miami|1
+1047|LA Rams|1
+1048|Tennessee|2
+1049|Minnesota|3
+1050|New Orleans|4
+1051|Detroit|2
+1052|Jacksonville|1
+1053|Denver|2
+1054|San Francisco|1
+1055|Pittsburgh|1
+1056|Kansas City|5
+1057|Tampa Bay|2
+1058|LA Rams|0
+1059|Houston|3
+1060|Arizona|0
+1061|LA Chargers|2
+1062|Green Bay|3
+1063|Detroit|2
+1064|NY Giants|1
+1065|Cleveland|1
+1066|Atlanta|4
+1067|Buffalo|4
+1068|Indianapolis|3
+1069|Jacksonville|1
+1070|Chicago|2
+1071|Oakland|0
+1072|San Francisco|2
+1073|Baltimore|2
+1074|NY Giants|1
+1075|Seattle|3
+1076|Arizona|2
+1077|Chicago|3
+1078|Indianapolis|3
+1079|Cincinnati|2
+1080|Pittsburgh|2
+1081|NY Jets|2
+1082|Philadelphia|3
+1083|Washington|1
+1084|Dallas|1
+1085|New England|3
+1086|Miami|1
+1087|Buffalo|1
+1088|Jacksonville|2
+1089|Philadelphia|5
+1090|Baltimore|4
+1091|Detroit|1
+1092|New Orleans|4
+1093|New England|2
+1094|Kansas City|4
+1095|Seattle|5
+1096|Carolina|2
+1097|Denver|3
+1098|Houston|2
+1099|LA Chargers|2
+1100|NY Jets|3
+1101|NY Giants|0
+1102|Green Bay|5
+1103|Detroit|1
+1104|Cincinnati|3
+1105|Oakland|1
+1106|Pittsburgh|4
+1107|Philadelphia|1
+1108|LA Rams|1
+1109|Carolina|0
+1110|Jacksonville|2
+1111|Tennessee|2
+1112|Arizona|0
+1113|New Orleans|2
+1114|Washington|4
+1115|Indianapolis|3
+1116|Seattle|2
+1117|Tampa Bay|3
+1118|Buffalo|3
+1119|Cincinnati|3
+1120|Dallas|1
+1121|LA Chargers|1
+1122|LA Rams|2
+1123|New England|2
+1124|Chicago|3
+1125|San Francisco|1
+1126|Baltimore|3
+1127|Cleveland|2
+1128|Houston|3
+1129|Denver|2
+1130|Minnesota|1
+1131|Carolina|1
+1132|Miami|3
+1133|Buffalo|2
+1134|Cleveland|1
+1135|NY Giants|5
+1136|Dallas|3
+1137|San Francisco|0
+1138|Pittsburgh|3
+1139|NY Jets|3
+1140|Atlanta|2
+1141|Washington|0
+1142|Green Bay|3
+1143|Seattle|0
+1144|Cincinnati|2
+1145|Tennessee|0
+1146|Kansas City|3
+1147|LA Chargers|1
+1148|Atlanta|1
+1149|Minnesota|1
+1150|New Orleans|3
+1151|Philadelphia|0
+1152|Tampa Bay|1
+1153|Baltimore|1
+1154|Pittsburgh|1
+1155|Indianapolis|3
+1156|Chicago|2
+1157|Washington|2
+1158|Philadelphia|3
+1159|Jacksonville|2
+1160|Cincinnati|2
+1161|Buffalo|1
+1162|Oakland|2
+1163|Seattle|4
+1164|Detroit|1
+1165|LA Rams|1
+1166|Carolina|2
+1167|Denver|0
+1168|Houston|2
+1169|Dallas|1
+1170|Miami|2
+1171|Indianapolis|3
+1172|Baltimore|2
+1173|Detroit|2
+1174|NY Jets|1
+1175|Cleveland|2
+1176|Washington|0
+1177|Oakland|1
+1178|Atlanta|2
+1179|Arizona|2
+1180|LA Chargers|3
+1181|Green Bay|2
+1182|San Francisco|2
+1183|Minnesota|2
+1184|Kansas City|1
+1185|New England|2
+1186|New Orleans|1
+1187|Chicago|0
+1188|NY Jets|1
+1189|Minnesota|4
+1190|Jacksonville|3
+1191|LA Chargers|2
+1192|Tampa Bay|3
+1193|Pittsburgh|2
+1194|Carolina|3
+1195|Tennessee|3
+1196|Indianapolis|1
+1197|Dallas|1
+1198|Denver|1
+1199|San Francisco|2
+1200|Green Bay|1
+1201|Oakland|1
+1202|Pittsburgh|0
+1203|New England|3
+1204|Jacksonville|3
+1205|Arizona|0
+1206|Miami|4
+1207|Tennessee|0
+1208|Tampa Bay|3
+1209|Chicago|4
+1210|Atlanta|2
+1211|LA Rams|2
+1212|Cincinnati|1
+1213|Denver|0
+1214|NY Giants|1
+1215|New Orleans|0
+1216|Houston|2
+1217|Miami|3
+1218|Atlanta|1
+1219|Buffalo|2
+1220|Oakland|3
+1221|Detroit|0
+1222|Cleveland|3
+1223|Indianapolis|1
+1224|Minnesota|2
+1225|Kansas City|2
+1226|Tennessee|0
+1227|LA Rams|1
+1228|NY Giants|0
+1229|Seattle|1
+1230|Carolina|3
+1231|Dallas|0
+1232|LA Chargers|2
+1233|Houston|1
+1234|Philadelphia|3
+1235|New England|3
+1236|San Francisco|4
+1237|Buffalo|3
+1238|Chicago|1
+1239|Washington|2
+1240|Seattle|3
+1241|NY Jets|2
+1242|Kansas City|0
+1243|Green Bay|1
+1244|New Orleans|3
+1245|Arizona|3
+1246|Cincinnati|0
+1247|Baltimore|6
+1248|Tampa Bay|2
+1249|Miami|0
+1250|Cleveland|2
+1251|Indianapolis|4
+1252|Minnesota|0
+1253|Denver|3
+1254|Tennessee|2
+1255|Dallas|1
+1256|New Orleans|2
+1257|NY Giants|3
+1258|Arizona|3
+1259|New England|2
+1260|Oakland|2
+1261|Pittsburgh|1
+1262|Chicago|1
+1263|Atlanta|1
+1264|Cleveland|0
+1265|Houston|1
+1266|NY Jets|3
+1267|Jacksonville|1
+1268|Baltimore|3
+1269|Washington|2
+1270|Carolina|0
+1271|Detroit|2
+1272|Denver|2
+1273|Tampa Bay|1
+1274|Buffalo|2
+1275|Green Bay|2
+1276|San Francisco|4
+1277|Kansas City|2
+1278|LA Rams|1
+1279|Philadelphia|1
+1280|Denver|0
+1281|Detroit|2
+1282|Cleveland|1
+1283|Buffalo|0
+1284|Chicago|1
+1285|Indianapolis|0
+1286|Pittsburgh|0
+1287|NY Jets|3
+1288|Jacksonville|0
+1289|New Orleans|3
+1290|Carolina|0
+1291|LA Rams|4
+1292|San Francisco|3
+1293|Dallas|3
+1294|Washington|1
+1295|LA Chargers|0
+1296|New England|3
+1297|Green Bay|1
+1298|Kansas City|2
+1299|Baltimore|2
+1300|Buffalo|4
+1301|Philadelphia|4
+1302|Indianapolis|3
+1303|Atlanta|1
+1304|Houston|3
+1305|Chicago|1
+1306|Tampa Bay|1
+1307|Arizona|4
+1308|Oakland|5
+1309|NY Giants|3
+1310|Seattle|2
+1311|Cincinnati|2
+1312|Philadelphia|2
+1313|New England|3
+1314|Dallas|2
+1315|Baltimore|3
+1316|New Orleans|1
+1317|Tennessee|3
+1318|Cincinnati|1
+1319|Washington|2
+1320|Carolina|1
+1321|Minnesota|2
+1322|Miami|2
+1323|NY Jets|2
+1324|San Francisco|0
+1325|Seattle|1
+1326|Pittsburgh|3
+1327|Denver|3
+1328|LA Rams|1
+1329|Buffalo|3
+1330|Kansas City|1
+1331|Houston|2
+1332|Tampa Bay|1
+1333|Detroit|4
+1334|Jacksonville|1
+1335|Cleveland|3
+1336|Minnesota|3
+1337|Tennessee|1
+1338|Denver|1
+1339|Oakland|1
+1340|LA Chargers|3
+1341|Atlanta|3
+1342|New Orleans|2
+1343|Cleveland|3
+1344|LA Rams|2
+1345|NY Giants|0
+1346|Miami|4
+1347|Green Bay|5
+1348|Chicago|1
+1349|Cincinnati|2
+1350|Tennessee|2
+1351|Indianapolis|2
+1352|Arizona|2
+1353|Dallas|2
+1354|San Francisco|2
+1355|Oakland|2
+1356|Atlanta|0
+1357|Chicago|2
+1358|Baltimore|1
+1359|Cleveland|1
+1360|Buffalo|1
+1361|Kansas City|1
+1362|NY Jets|2
+1363|Tampa Bay|2
+1364|Houston|2
+1365|Minnesota|1
+1366|Denver|0
+1367|Seattle|2
+1368|San Francisco|3
+1369|New England|3
+1370|Dallas|1
+1371|LA Chargers|4
+1372|Arizona|3
+1373|Atlanta|1
+1374|Miami|1
+1375|Detroit|2
+1376|Philadelphia|2
+1377|Jacksonville|2
+1378|Carolina|3
+1379|NY Jets|3
+1380|Washington|1
+1381|Tennessee|1
+1382|Pittsburgh|4
+1383|Green Bay|2
+1384|Kansas City|1
+1385|Indianapolis|3
+1386|NY Giants|3
+1387|Tampa Bay|2
+1388|New England|2
+1389|New Orleans|2
+1390|Kansas City|4
+1391|Philadelphia|0
+1392|Detroit|1
+1393|Jacksonville|1
+1394|Oakland|0
+1395|Cincinnati|0
+1396|Arizona|2
+1397|Denver|1
+1398|Minnesota|1
+1399|LA Rams|4
+1400|Miami|3
+1401|LA Rams|1
+1402|Buffalo|2
+1403|Washington|3
+1404|Carolina|2
+1405|Dallas|2
+1406|NY Jets|4
+1407|Oakland|2
+1408|Seattle|2
+1409|Cleveland|1
+1410|New England|2
+1411|Houston|4
+1412|Green Bay|2
+1413|Minnesota|2
+1414|Green Bay|4
+1415|Tennessee|2
+1416|Baltimore|2
+1417|Pittsburgh|3
+1418|NY Giants|1
+1419|Atlanta|1
+1420|Chicago|2
+1421|Indianapolis|0
+1422|San Francisco|3
+1423|LA Chargers|3
+1424|Arizona|2
+1425|New Orleans|1
+1426|Tampa Bay|2
+1427|Tennessee|2
+1428|Chicago|3
+1429|Pittsburgh|3
+1430|Buffalo|3
+1431|Cincinnati|2
+1432|Philadelphia|1
+1433|Houston|3
+1434|Tampa Bay|3
+1435|Jacksonville|1
+1436|Miami|2
+1437|NY Giants|2
+1438|New Orleans|3
+1439|Seattle|2
+1440|Denver|3
+1441|Carolina|1
+1442|Atlanta|3
+1443|LA Rams|2
+1444|Baltimore|4
+1445|Green Bay|2
+1446|Houston|2
+1447|Kansas City|1
+1448|Detroit|0
+1449|Cleveland|2
+1450|Miami|4
+1451|Oakland|6
+1452|Arizona|5
+1453|NY Giants|2
+1454|New England|2
+1455|Washington|2
+1456|Detroit|2
+1457|Dallas|1
+1458|Baltimore|5
+1459|Houston|1
+1460|Cleveland|1
+1461|Philadelphia|1
+1462|NY Jets|1
+1463|Indianapolis|5
+1464|Carolina|2
+1465|Minnesota|4
+1466|Buffalo|1
+1467|San Francisco|3
+1468|LA Chargers|1
+1469|Kansas City|0
+1470|Washington|1
+1471|Seattle|2
+1472|Jacksonville|2
+1473|Pittsburgh|0
+1474|Green Bay|3
+1475|Tampa Bay|2
+1476|NY Jets|3
+1477|Philadelphia|0
+1478|New England|2
+1479|Cincinnati|0
+1480|Baltimore|0
+1481|Washington|1
+1482|Denver|3
+1483|Arizona|2
+1484|LA Chargers|3
+1485|San Francisco|4
+1486|New Orleans|1
+1487|Chicago|3
+1488|Denver|2
+1489|Indianapolis|3
+1490|Minnesota|3
+1491|Miami|1
+1492|Tampa Bay|0
+1493|Jacksonville|2
+1494|Cleveland|1
+1495|Atlanta|2
+1496|NY Giants|0
+1497|Carolina|3
+1498|Oakland|1
+1499|Dallas|5
+1500|LA Rams|2
+1501|Tennessee|3
+1502|Pittsburgh|3
+1503|Detroit|1
+1504|LA Rams|3
+1505|Buffalo|4
+1506|NY Jets|2
+1507|Kansas City|1
+1508|Cincinnati|0
+1509|Houston|2
+1510|Jacksonville|1
+1511|Washington|3
+1512|Carolina|1
+1513|Detroit|1
+1514|Seattle|2
+1515|Baltimore|1
+1516|LA Chargers|4
+1517|Green Bay|1
+1518|Philadelphia|1
+1519|San Francisco|2
+1520|Pittsburgh|2
+1521|Tennessee|3
+1522|Miami|0
+1523|Indianapolis|3
+1524|Cincinnati|2
+1525|NY Giants|3
+1526|Atlanta|2
+1527|Minnesota|0
+1528|Oakland|1
+1529|New Orleans|0
+1530|New England|4
+1531|Chicago|0
+1532|Arizona|4
+1533|LA Chargers|2
+1534|Seattle|2
+1535|Dallas|3
+1536|Green Bay|1
+1537|Minnesota|2
+1538|Buffalo|3
+1539|Cincinnati|6
+1540|Jacksonville|3
+1541|Cleveland|2
+1542|Oakland|0
+1543|Tennessee|4
+1544|New England|2
+1545|Washington|0
+1546|New Orleans|2
+1547|San Francisco|1
+1548|Carolina|3
+1549|Indianapolis|1
+1550|NY Giants|0
+1551|LA Chargers|1
+1552|Pittsburgh|2
+1553|Miami|1
+1554|Dallas|4
+1555|New Orleans|1
+1556|Arizona|4
+1557|Detroit|2
+1558|Atlanta|1
+1559|Jacksonville|1
+1560|New England|3
+1561|Seattle|0
+1562|LA Rams|4
+1563|Kansas City|2
+1564|Houston|4
+1565|NY Jets|1
+1566|Chicago|0
+1567|Philadelphia|4
+1568|Tampa Bay|0
+1569|Dallas|2
+1570|LA Chargers|2
+1571|Green Bay|0
+1572|Tennessee|2
+1573|Oakland|3
+1574|Washington|3
+1575|Baltimore|3
+1576|Houston|1
+1577|Indianapolis|3
+1578|Minnesota|3
+1579|San Francisco|1
+1580|Denver|1
+1581|Kansas City|0
+1582|Pittsburgh|3
+1583|Chicago|2
+1584|NY Giants|1
+1585|Green Bay|2
+1586|Buffalo|1
+1587|Detroit|2
+1588|Carolina|1
+1589|Tennessee|1
+1590|Tampa Bay|2
+1591|Miami|1
+1592|Jacksonville|0
+1593|Atlanta|0
+1594|Philadelphia|0
+1595|New Orleans|2
+1596|New England|0
+1597|Minnesota|1
+1598|Cleveland|2
+1599|Pittsburgh|1
+1600|LA Rams|0
+1601|Tampa Bay|1
+1602|Chicago|2
+1603|Atlanta|2
+1604|Houston|1
+1605|Baltimore|2
+1606|Buffalo|4
+1607|Arizona|2
+1608|Kansas City|1
+1609|NY Jets|0
+1610|Cincinnati|2
+1611|Seattle|2
+1612|Indianapolis|2
+1613|Pittsburgh|1
+1614|Denver|1
+1615|Jacksonville|1
+1616|Green Bay|2
+1617|Baltimore|3
+1618|Detroit|3
+1619|New England|4
+1620|Carolina|4
+1621|LA Chargers|1
+1622|Washington|2
+1623|Chicago|2
+1624|Dallas|3
+1625|NY Giants|0
+1626|San Francisco|1
+1627|NY Jets|5
+1628|Seattle|2
+1629|Miami|4
+1630|Cleveland|2
+1631|Cincinnati|0
+1632|Minnesota|3
+1633|Tennessee|1
+1634|Carolina|1
+1635|Atlanta|1
+1636|New Orleans|3
+1637|Kansas City|3
+1638|Arizona|1
+1639|NY Giants|0
+1640|San Francisco|2
+1641|Houston|3
+1642|LA Chargers|0
+1643|Detroit|3
+1644|Baltimore|3
+1645|Buffalo|3
+1646|Miami|2
+1647|Chicago|0
+1648|Minnesota|3
+1649|Houston|3
+1650|LA Rams|1
+1651|Seattle|2
+1652|Philadelphia|2
+1653|Oakland|2
+1654|Indianapolis|2
+1655|Green Bay|3
+1656|Washington|2
+1657|New Orleans|0
+1658|Tampa Bay|3
+1659|Jacksonville|1
+1660|LA Chargers|0
+1661|NY Jets|1
+1662|Washington|2
+1663|Philadelphia|1
+1664|Arizona|0
+1665|LA Rams|2
+1666|Denver|1
+1667|Oakland|2
+1668|Baltimore|1
+1669|Indianapolis|4
+1670|Cleveland|2
+1671|Miami|3
+1672|Kansas City|1
+1673|Pittsburgh|3
+1674|San Francisco|2
+1675|Tennessee|0
+1676|Atlanta|4
+1677|Dallas|2
+1678|Denver|2
+1679|LA Rams|0
+1680|NY Giants|1
+1681|Chicago|0
+1682|Carolina|0
+1683|Buffalo|4
+1684|Denver|0
+1685|Cincinnati|2
+1686|Minnesota|3
+1687|Atlanta|4
+1688|Houston|4
+1689|Tampa Bay|2
+1690|San Francisco|3
+1691|Seattle|2
+1692|Oakland|2
+1693|Detroit|2
+1694|Philadelphia|2
+1695|New England|0
+1696|Pittsburgh|2
+1697|Kansas City|2
+1698|Tennessee|1
+1699|Cincinnati|2
+1700|Tampa Bay|2
+1701|Detroit|4
+1702|Cleveland|5
+1703|Jacksonville|1
+1704|Green Bay|1
+1705|LA Rams|2
+1706|Arizona|2
+1707|Washington|2
+1708|Miami|0
+1709|Dallas|1
+1710|NY Jets|1
+1711|Baltimore|2
+1712|Chicago|1
+1713|Philadelphia|4
+1714|Seattle|4
+1715|Oakland|0
+1716|Tennessee|0
+1717|Washington|2
+1718|Cleveland|2
+1719|Cincinnati|0
+1720|Carolina|2
+1721|LA Chargers|2
+1722|New Orleans|0
+1723|NY Giants|2
+1724|Arizona|1
+1725|New England|1
+1726|Denver|5
+1727|Miami|4
+1728|Dallas|2
+1729|Baltimore|0
+1730|Tampa Bay|1
+1731|NY Jets|5
+1732|Pittsburgh|2
+1733|Carolina|2
+1734|NY Giants|5
+1735|Houston|2
+1736|Indianapolis|2
+1737|LA Rams|3
+1738|Kansas City|0
+1739|Buffalo|1
+1740|San Francisco|3
+1741|Seattle|1
+1742|New England|3
+1743|Atlanta|2
+1744|Arizona|4
+1745|Green Bay|3
+1746|Jacksonville|5
+1747|Cincinnati|3
+1748|Miami|3
+1749|Houston|1
+1750|Washington|2
+1751|Pittsburgh|2
+1752|Oakland|2
+1753|Tampa Bay|1
+1754|Denver|5
+1755|NY Jets|2
+1756|Minnesota|3
+1757|San Francisco|0
+1758|Dallas|1
+1759|New Orleans|2
+1760|Tennessee|2
+1761|Philadelphia|3
+1762|LA Chargers|1
+1763|New England|1
+1764|Kansas City|4
+1765|Baltimore|0
+1766|Detroit|3
+1767|Minnesota|2
+1768|Green Bay|3
+1769|Atlanta|3
+1770|Cleveland|2
+1771|NY Giants|4
+1772|Buffalo|1
+1773|Indianapolis|0
+1774|Seattle|3
+1775|Denver|1
+1776|NY Jets|4
+1777|Indianapolis|3
+1778|Philadelphia|2
+1779|Cleveland|1
+1780|Buffalo|1
+1781|Chicago|4
+1782|New Orleans|0
+1783|LA Chargers|1
+1784|Jacksonville|2
+1785|Dallas|3
+1786|Carolina|2
+1787|Detroit|0
+1788|Oakland|0
+1789|Arizona|1
+1790|LA Rams|2
+1791|Cincinnati|2
+1792|Seattle|2
+1793|LA Rams|3
+1794|Chicago|2
+1795|Baltimore|2
+1796|Philadelphia|2
+1797|Pittsburgh|3
+1798|NY Jets|2
+1799|Kansas City|2
+1800|Miami|4
+1801|Houston|1
+1802|Atlanta|3
+1803|Dallas|1
+1804|Tampa Bay|0
+1805|Denver|1
+1806|Detroit|3
+1807|Arizona|2
+1808|Baltimore|4
+1809|Buffalo|6
+1810|Tennessee|1
+1811|Cleveland|2
+1812|NY Giants|0
+1813|Carolina|3
+1814|Cincinnati|4
+1815|Washington|2
+1816|Minnesota|1
+1817|LA Chargers|3
+1818|Tampa Bay|2
+1819|Denver|1
+1820|Oakland|0
+1821|Green Bay|3
+1822|San Francisco|2
+1823|Indianapolis|2
+1824|Atlanta|1
+1825|LA Rams|1
+1826|Buffalo|1
+1827|Detroit|2
+1828|Cincinnati|1
+1829|New England|3
+1830|Philadelphia|3
+1831|Cleveland|2
+1832|NY Giants|3
+1833|Jacksonville|1
+1834|New Orleans|0
+1835|Arizona|3
+1836|Seattle|3
+1837|Miami|3
+1838|Carolina|2
+1839|NY Jets|4
+1840|Washington|0
+1841|Chicago|1
+1842|Houston|3
+1843|NY Jets|1
+1844|Baltimore|2
+1845|Indianapolis|2
+1846|Pittsburgh|2
+1847|Oakland|0
+1848|LA Chargers|4
+1849|Minnesota|5
+1850|San Francisco|4
+1851|Dallas|1
+1852|Kansas City|2
+1853|Green Bay|0
+1854|Tennessee|0
+1855|Jacksonville|3
+1856|Philadelphia|2
+1857|New Orleans|3
+1858|Carolina|1
+1859|NY Giants|3
+1860|Dallas|3
+1861|Indianapolis|2
+1862|Detroit|3
+1863|Denver|3
+1864|San Francisco|5
+1865|LA Chargers|1
+1866|New England|5
+1867|Washington|1
+1868|Houston|1
+1869|Cleveland|1
+1870|NY Jets|1
+1871|Tennessee|3
+1872|Miami|1
+1873|Tampa Bay|2
+1874|Minnesota|1
+1875|Buffalo|0
+1876|Cincinnati|4
+1877|Oakland|1
+1878|Arizona|3
+1879|Atlanta|2
+1880|Seattle|3
+1881|Philadelphia|2
+1882|LA Rams|1
+1883|New England|2
+1884|LA Rams|1
+1885|Chicago|0
+1886|Jacksonville|1
+1887|Indianapolis|2
+1888|Buffalo|1
+1889|Washington|4
+1890|Green Bay|1
+1891|Baltimore|2
+1892|Detroit|1
+1893|LA Chargers|2
+1894|Oakland|2
+1895|Dallas|1
+1896|Denver|0
+1897|Pittsburgh|3
+1898|Denver|1
+1899|Atlanta|0
+1900|Cincinnati|2
+1901|NY Jets|1
+1902|Jacksonville|3
+1903|New England|3
+1904|Tampa Bay|2
+1905|Tennessee|1
+1906|Kansas City|2
+1907|Carolina|3
+1908|Arizona|1
+1909|Cleveland|3
+1910|Pittsburgh|0
+1911|New Orleans|3
+1912|Dallas|1
+1913|Carolina|1
+1914|Cleveland|3
+1915|Cincinnati|1
+1916|Miami|4
+1917|Kansas City|1
+1918|Minnesota|0
+1919|Houston|1
+1920|Dallas|2
+1921|San Francisco|2
+1922|New England|3
+1923|Seattle|4
+1924|Pittsburgh|0
+1925|NY Giants|1
+1926|Cincinnati|1
+1927|Detroit|3
+1928|Buffalo|2
+1929|NY Jets|3
+1930|New Orleans|1
+1931|Baltimore|0
+1932|Tampa Bay|1
+1933|Jacksonville|0
+1934|Oakland|1
+1935|Arizona|2
+1936|Seattle|1
+1937|Green Bay|2
+1938|Philadelphia|1
+1939|Miami|2
+1940|LA Rams|5
+1941|New Orleans|1
+1942|Chicago|1
+1943|Carolina|3
+1944|Cleveland|1
+1945|Washington|2
+1946|NY Giants|1
+1947|Kansas City|1
+1948|LA Chargers|3
+1949|Arizona|0
+1950|Green Bay|3
+1951|Indianapolis|2
+1952|Tennessee|1
+1953|Oakland|1
+1954|Philadelphia|6
+1955|Houston|2
+1956|Chicago|1
+1957|New England|2
+1958|Atlanta|1
+1959|Indianapolis|3
+1960|Minnesota|2
+1961|LA Chargers|2
+1962|Seattle|5
+1963|San Francisco|1
+1964|Denver|2
+1965|NY Giants|0
+1966|Buffalo|1
+1967|New Orleans|2
+1968|Detroit|2
+1969|Dallas|1
+1970|San Francisco|1
+1971|LA Rams|1
+1972|Houston|2
+1973|Indianapolis|0
+1974|Buffalo|5
+1975|Tampa Bay|2
+1976|Minnesota|1
+1977|Baltimore|4
+1978|Pittsburgh|4
+1979|Jacksonville|2
+1980|Atlanta|5
+1981|Green Bay|5
+1982|Kansas City|1
+1983|NY Jets|4
+1984|Chicago|0
+1985|Miami|2
+1986|Detroit|2
+1987|Minnesota|3
+1988|Cincinnati|0
+1989|New Orleans|2
+1990|Tennessee|1
+1991|Jacksonville|2
+1992|Cleveland|2
+1993|Washington|0
+1994|Arizona|5
+1995|Denver|1
+1996|Oakland|1
+1997|Philadelphia|0
+1998|LA Chargers|0
+1999|Green Bay|3
+2000|LA Rams|2
+2001|Buffalo|4
+2002|Baltimore|4
+2003|Cleveland|0
+2004|New England|2
+2005|Indianapolis|1
+2006|NY Giants|1
+2007|Atlanta|2
+2008|Kansas City|3
+2009|Carolina|5
+2010|LA Chargers|3
+2011|Tennessee|3
+2012|Detroit|3
+2013|Seattle|1
+2014|Philadelphia|2
+2015|Chicago|0
+2016|Jacksonville|0
+2017|Washington|2
+2018|San Francisco|1
+2019|NY Jets|4
+2020|Pittsburgh|2
+2021|Houston|6
+2022|Chicago|0
+2023|Miami|1
+2024|Tampa Bay|1
+2025|New Orleans|0
+2026|Carolina|2
+2027|LA Rams|2
+2028|Oakland|5
+2029|Dallas|1
+2030|Arizona|2
+2031|Cincinnati|3
+2032|Miami|2
+2033|Tennessee|1
+2034|NY Giants|4
+2035|Baltimore|2
+2036|New England|3
+2037|Minnesota|2
+2038|Tampa Bay|2
+2039|Kansas City|5
+2040|Houston|0
+2041|Washington|1
+2042|Atlanta|1
+2043|Green Bay|1
+2044|Denver|4
+2045|San Francisco|2
+2046|Seattle|2
+2047|Pittsburgh|2
+2048|Pittsburgh|4
+2049|Seattle|3
+2050|Green Bay|1
+2051|Miami|1
+2052|Kansas City|3
+2053|Indianapolis|1
+2054|Carolina|4
+2055|Cleveland|1
+2056|New Orleans|4
+2057|Detroit|0
+2058|Tennessee|0
+2059|Cincinnati|2
+2060|Baltimore|2
+2061|NY Giants|4
+2062|Philadelphia|2
+2063|Minnesota|2
+2064|Denver|1
+2065|Arizona|0
+2066|Tennessee|0
+2067|Houston|1
+2068|Atlanta|1
+2069|Tampa Bay|5
+2070|San Francisco|1
+2071|New England|4
+2072|Detroit|1
+2073|LA Chargers|3
+2074|LA Rams|1
+2075|Baltimore|4
+2076|Miami|3
+2077|Dallas|2
+2078|Seattle|1
+2079|NY Jets|3
+2080|Washington|2
+2081|Pittsburgh|2
+2082|Oakland|2
+2083|LA Chargers|0
+2084|Cincinnati|0
+2085|Tampa Bay|4
+2086|Philadelphia|1
+2087|New Orleans|1
+2088|Atlanta|1
+2089|Indianapolis|0
+2090|Jacksonville|1
+2091|San Francisco|0
+2092|Buffalo|3
+2093|Chicago|0
+2094|Denver|1
+2095|Kansas City|0
+2096|Baltimore|3
+2097|NY Jets|3
+2098|Jacksonville|4
+2099|NY Giants|1
+2100|Oakland|2
+2101|Houston|1
+2102|Kansas City|7
+2103|Philadelphia|1
+2104|Carolina|3
+2105|Cleveland|4
+2106|Minnesota|3
+2107|Green Bay|2
+2108|LA Rams|1
+2109|Dallas|2
+2110|Detroit|1
+2111|Indianapolis|2
+2112|Washington|3
+2113|LA Rams|4
+2114|Jacksonville|1
+2115|Chicago|2
+2116|Cleveland|4
+2117|Seattle|1
+2118|Buffalo|0
+2119|New Orleans|1
+2120|Arizona|0
+2121|Denver|3
+2122|New England|3
+2123|San Francisco|2
+2124|Pittsburgh|1
+2125|Atlanta|0
+2126|Washington|2
+2127|Chicago|4
+2128|Denver|5
+2129|Houston|1
+2130|Kansas City|1
+2131|Cincinnati|2
+2132|Miami|1
+2133|Arizona|3
+2134|Carolina|0
+2135|Baltimore|3
+2136|LA Chargers|2
+2137|New England|2
+2138|NY Giants|0
+2139|Seattle|2
+2140|Buffalo|3
+2141|Cleveland|2
+2142|NY Jets|3
+2143|Houston|0
+2144|Atlanta|2
+2145|Minnesota|5
+2146|New Orleans|0
+2147|Pittsburgh|2
+2148|Tampa Bay|3
+2149|Oakland|3
+2150|Dallas|2
+2151|Philadelphia|4
+2152|Baltimore|1
+2153|Miami|1
+2154|Detroit|1
+2155|Minnesota|3
+2156|San Francisco|2
+2157|Cincinnati|4
+2158|LA Chargers|2
+2159|Arizona|2
+2160|Tennessee|2
+2161|Tampa Bay|3
+2162|NY Giants|0
+2163|NY Jets|2
+2164|Seattle|3
+2165|Green Bay|1
+2166|Indianapolis|4
+2167|Cleveland|1
+2168|LA Rams|5
+2169|Miami|1
+2170|Washington|1
+2171|Jacksonville|3
+2172|Tennessee|3
+2173|Oakland|0
+2174|Green Bay|0
+2175|Atlanta|3
+2176|NY Giants|4
+2177|Denver|1
+2178|Philadelphia|2
+2179|Chicago|2
+2180|Buffalo|3
+2181|Chicago|3
+2182|Carolina|2
+2183|Detroit|2
+2184|Cleveland|1
+2185|Dallas|3
+2186|Miami|2
+2187|Jacksonville|4
+2188|New Orleans|0
+2189|Minnesota|5
+2190|Kansas City|6
+2191|New England|2
+2192|Arizona|3
+2193|Houston|1
+2194|Tennessee|3
+2195|Tampa Bay|1
+2196|LA Rams|1
+2197|Denver|1
+2198|Washington|0
+2199|Indianapolis|1
+2200|Oakland|2
+2201|NY Jets|1
+2202|Dallas|1
+2203|Kansas City|2
+2204|Green Bay|5
+2205|San Francisco|2
+2206|Cincinnati|1
+2207|Buffalo|3
+2208|Philadelphia|1
+2209|Carolina|5
+2210|Chicago|1
+2211|Miami|0
+2212|New Orleans|2
+2213|Oakland|1
+2214|Tampa Bay|3
+2215|LA Rams|0
+2216|Minnesota|3
+2217|NY Giants|0
+2218|Buffalo|1
+2219|LA Chargers|1
+2220|Arizona|2
+2221|Pittsburgh|3
+2222|New England|1
+2223|Baltimore|2
+2224|Green Bay|1
+2225|Arizona|2
+2226|Houston|0
+2227|Seattle|1
+2228|Jacksonville|0
+2229|San Francisco|0
+2230|Cincinnati|3
+2231|Atlanta|4
+2232|Baltimore|3
+2233|NY Jets|3
+2234|Denver|2
+2235|Kansas City|0
+2236|Carolina|0
+2237|Philadelphia|0
+2238|Indianapolis|1
+2239|Dallas|4
+2240|Minnesota|2
+2241|Buffalo|2
+2242|Washington|1
+2243|Indianapolis|3
+2244|Pittsburgh|4
+2245|Detroit|0
+2246|San Francisco|1
+2247|New Orleans|1
+2248|Tennessee|0
+2249|Seattle|0
+2250|Atlanta|0
+2251|LA Chargers|2
+2252|Oakland|1
+2253|Dallas|0
+2254|New England|2
+2255|NY Giants|2
+2256|Tampa Bay|3
+2257|NY Jets|3
+2258|Carolina|2
+2259|Chicago|1
+2260|Houston|4
+2261|Tennessee|1
+2262|Atlanta|3
+2263|Kansas City|2
+2264|Buffalo|1
+2265|Green Bay|4
+2266|Cleveland|2
+2267|Cincinnati|1
+2268|Denver|0
+2269|Miami|0
+2270|Arizona|2
+2271|Detroit|1
+2272|LA Chargers|3
+2273|Washington|1
+2274|Houston|2
+2275|Pittsburgh|1
+2276|Dallas|3
+2277|Indianapolis|1
+2278|New England|2
+2279|Carolina|2
+2280|Cleveland|3
+2281|Chicago|4
+2282|San Francisco|2
+2283|Jacksonville|0
+2284|Green Bay|0
+2285|LA Rams|1
+2286|NY Giants|1
+2287|Cincinnati|2
+2288|Tennessee|1
+2289|New Orleans|2
+2290|New England|2
+2291|Baltimore|3
+2292|Jacksonville|2
+2293|Pittsburgh|3
+2294|NY Jets|2
+2295|Detroit|2
+2296|Washington|2
+2297|Philadelphia|0
+2298|LA Chargers|2
+2299|LA Rams|5
+2300|Tampa Bay|1
+2301|Seattle|4
+2302|Oakland|1
+2303|Minnesota|2
+2304|New England|0
+2305|LA Rams|2
+2306|Chicago|3
+2307|Washington|2
+2308|Houston|2
+2309|Buffalo|2
+2310|Jacksonville|2
+2311|NY Jets|1
+2312|Arizona|1
+2313|LA Chargers|2
+2314|Tampa Bay|0
+2315|Oakland|0
+2316|Denver|4
+2317|Dallas|2
+2318|Atlanta|4
+2319|San Francisco|3
+2320|Kansas City|1
+2321|Chicago|3
+2322|Cleveland|0
+2323|Carolina|2
+2324|NY Giants|2
+2325|New Orleans|1
+2326|Pittsburgh|0
+2327|Buffalo|0
+2328|Minnesota|2
+2329|Cincinnati|2
+2330|Washington|1
+2331|Oakland|3
+2332|Jacksonville|3
+2333|Philadelphia|1
+2334|Green Bay|4
+2335|Indianapolis|1
+2336|NY Giants|3
+2337|LA Rams|2
+2338|Cleveland|2
+2339|Minnesota|1
+2340|Baltimore|2
+2341|Houston|3
+2342|NY Jets|1
+2343|Carolina|2
+2344|Dallas|0
+2345|Tennessee|2
+2346|New England|3
+2347|Arizona|1
+2348|Miami|0
+2349|Seattle|4
+2350|Detroit|0
+2351|Green Bay|1
+2352|Pittsburgh|4
+2353|Miami|0
+2354|Indianapolis|3
+2355|Buffalo|2
+2356|Chicago|3
+2357|Atlanta|0
+2358|Cincinnati|1
+2359|Washington|3
+2360|Tampa Bay|3
+2361|LA Chargers|3
+2362|Denver|3
+2363|San Francisco|1
+2364|Arizona|5
+2365|New Orleans|3
+2366|Seattle|2
+2367|Houston|2
+2368|Atlanta|4
+2369|Green Bay|1
+2370|Tampa Bay|3
+2371|Kansas City|3
+2372|Baltimore|2
+2373|Cincinnati|2
+2374|Tennessee|2
+2375|Philadelphia|4
+2376|Detroit|1
+2377|Oakland|3
+2378|Dallas|2
+2379|NY Giants|3
+2380|LA Chargers|3
+2381|New Orleans|3
+2382|NY Jets|3
+2383|Detroit|3
+2384|Cleveland|1
+2385|Jacksonville|0
+2386|Minnesota|3
+2387|Buffalo|0
+2388|Tennessee|1
+2389|Pittsburgh|4
+2390|Seattle|3
+2391|San Francisco|4
+2392|Green Bay|2
+2393|Indianapolis|0
+2394|Philadelphia|2
+2395|San Francisco|1
+2396|Jacksonville|0
+2397|LA Rams|3
+2398|New England|3
+2399|Miami|1
+2400|Tennessee|0
+2401|Detroit|1
+2402|Indianapolis|0
+2403|Kansas City|4
+2404|Washington|1
+2405|LA Chargers|2
+2406|NY Giants|2
+2407|Carolina|2
+2408|Arizona|3
+2409|New England|2
+2410|Kansas City|1
+2411|Chicago|3
+2412|LA Rams|2
+2413|Pittsburgh|1
+2414|Baltimore|5
+2415|Cleveland|0
+2416|Houston|2
+2417|Atlanta|2
+2418|New Orleans|1
+2419|Oakland|3
+2420|Dallas|4
+2421|Denver|2
+2422|Carolina|3
+2423|Cincinnati|1
+2424|Minnesota|2
+2425|Buffalo|1
+2426|New England|2
+2427|NY Jets|0
+2428|New Orleans|1
+2429|Pittsburgh|4
+2430|Carolina|4
+2431|San Francisco|1
+2432|Tampa Bay|5
+2433|Indianapolis|2
+2434|Dallas|2
+2435|LA Chargers|2
+2436|NY Jets|1
+2437|LA Rams|2
+2438|Tennessee|1
+2439|Green Bay|2
+2440|Pittsburgh|3
+2441|Tampa Bay|2
+2442|Philadelphia|2
+2443|Baltimore|1
+2444|Washington|4
+2445|Oakland|0
+2446|Denver|0
+2447|NY Giants|4
+2448|Seattle|2
+2449|Cincinnati|2
+2450|Jacksonville|4
+2451|Philadelphia|1
+2452|Baltimore|5
+2453|Chicago|3
+2454|Carolina|3
+2455|Atlanta|1
+2456|Detroit|3
+2457|Houston|1
+2458|Miami|0
+2459|LA Chargers|1
+2460|Minnesota|0
+2461|Seattle|1
+2462|Arizona|2
+2463|New England|3
+2464|Detroit|1
+2465|Dallas|2
+2466|Green Bay|2
+2467|NY Jets|1
+2468|Houston|1
+2469|Tennessee|0
+2470|Indianapolis|4
+2471|Cincinnati|1
+2472|Atlanta|1
+2473|Washington|3
+2474|Kansas City|4
+2475|Jacksonville|4
+2476|San Francisco|2
+2477|Seattle|0
+2478|Denver|2
+2479|Cleveland|3
+2480|Detroit|3
+2481|LA Rams|1
+2482|Buffalo|2
+2483|Minnesota|0
+2484|Tennessee|0
+2485|Chicago|4
+2486|Cleveland|2
+2487|Tampa Bay|1
+2488|Miami|0
+2489|NY Giants|3
+2490|LA Chargers|2
+2491|Oakland|1
+2492|New Orleans|1
+2493|New England|0
+2494|Pittsburgh|4
+2495|Washington|4
+2496|Arizona|3
+2497|Philadelphia|3
+2498|Chicago|1
+2499|Jacksonville|1
+2500|Cincinnati|3
+2501|LA Rams|0
+2502|Cleveland|2
+2503|Tampa Bay|2
+2504|NY Jets|4
+2505|Baltimore|2
+2506|Carolina|1
+2507|Kansas City|2
+2508|Denver|5
+2509|Green Bay|0
+2510|Houston|2
+2511|Miami|1
+2512|LA Rams|1
+2513|Dallas|3
+2514|NY Giants|0
+2515|Minnesota|1
+2516|Indianapolis|1
+2517|New England|5
+2518|Jacksonville|1
+2519|Baltimore|0
+2520|Washington|0
+2521|Oakland|2
+2522|Seattle|3
+2523|San Francisco|1
+2524|Pittsburgh|2
+2525|LA Chargers|2
+2526|Philadelphia|1
+2527|New Orleans|2
+2528|Oakland|2
+2529|Philadelphia|1
+2530|Tennessee|0
+2531|Baltimore|2
+2532|Buffalo|1
+2533|Miami|2
+2534|NY Jets|2
+2535|Atlanta|3
+2536|Kansas City|1
+2537|Tampa Bay|1
+2538|Detroit|4
+2539|New Orleans|3
+2540|Arizona|1
+2541|Seattle|1
+2542|Minnesota|5
+2543|Denver|3
+2544|Indianapolis|3
+2545|Atlanta|2
+2546|Miami|3
+2547|Cincinnati|1
+2548|Houston|4
+2549|Cleveland|4
+2550|Buffalo|3
+2551|Chicago|2
+2552|Dallas|0
+2553|NY Giants|3
+2554|Denver|2
+2555|San Francisco|4
+2556|Carolina|1
+2557|Arizona|1
+2558|Kansas City|0
+2559|Green Bay|2
+2560|Carolina|3
+2561|Buffalo|1
+2562|Green Bay|2
+2563|Oakland|2
+2564|Cincinnati|4
+2565|Cleveland|1
+2566|Chicago|0
+2567|LA Chargers|3
+2568|Tampa Bay|1
+2569|Minnesota|6
+2570|Miami|2
+2571|NY Giants|0
+2572|Detroit|1
+2573|New England|3
+2574|Pittsburgh|1
+2575|LA Rams|0
+2576|NY Jets|3
+2577|Tennessee|2
+2578|Cincinnati|3
+2579|Baltimore|3
+2580|Kansas City|4
+2581|Miami|1
+2582|Dallas|2
+2583|New Orleans|3
+2584|San Francisco|2
+2585|Tampa Bay|1
+2586|Seattle|1
+2587|Atlanta|2
+2588|Indianapolis|2
+2589|Jacksonville|1
+2590|Green Bay|0
+2591|Philadelphia|3
+2592|Houston|0
+2593|Baltimore|4
+2594|Minnesota|2
+2595|Detroit|3
+2596|Washington|5
+2597|Denver|1
+2598|Arizona|1
+2599|Cleveland|6
+2600|Oakland|1
+2601|LA Rams|1
+2602|San Francisco|2
+2603|Pittsburgh|2
+2604|LA Chargers|3
+2605|NY Jets|1
+2606|Chicago|1
+2607|Atlanta|1
+2608|Miami|0
+2609|Indianapolis|2
+2610|Detroit|2
+2611|Buffalo|4
+2612|Tennessee|2
+2613|Oakland|0
+2614|Seattle|2
+2615|Carolina|1
+2616|Cleveland|2
+2617|Denver|2
+2618|Dallas|2
+2619|New Orleans|0
+2620|LA Rams|1
+2621|Kansas City|1
+2622|NY Giants|1
+2623|Arizona|1
+2624|Tennessee|1
+2625|New England|2
+2626|Philadelphia|3
+2627|Chicago|4
+2628|NY Jets|2
+2629|Washington|2
+2630|Houston|3
+2631|Atlanta|3
+2632|Cincinnati|1
+2633|Buffalo|1
+2634|LA Chargers|1
+2635|NY Giants|3
+2636|Tampa Bay|5
+2637|Denver|3
+2638|LA Rams|0
+2639|Jacksonville|1
+2640|Pittsburgh|0
+2641|Cincinnati|1
+2642|San Francisco|3
+2643|Cleveland|2
+2644|Baltimore|3
+2645|Philadelphia|2
+2646|Carolina|1
+2647|Kansas City|3
+2648|Dallas|3
+2649|Atlanta|1
+2650|Indianapolis|3
+2651|NY Jets|1
+2652|Chicago|1
+2653|NY Giants|1
+2654|Oakland|4
+2655|Minnesota|1
+2656|Washington|2
+2657|Indianapolis|2
+2658|Cleveland|1
+2659|Buffalo|1
+2660|New Orleans|0
+2661|Baltimore|3
+2662|LA Chargers|4
+2663|Tampa Bay|3
+2664|New England|0
+2665|Seattle|3
+2666|Houston|3
+2667|Jacksonville|0
+2668|Washington|4
+2669|Arizona|0
+2670|NY Jets|1
+2671|New England|2
+2672|Oakland|3
+2673|Kansas City|4
+2674|Seattle|2
+2675|Detroit|3
+2676|LA Chargers|1
+2677|Green Bay|1
+2678|Philadelphia|3
+2679|Minnesota|1
+2680|Atlanta|3
+2681|Pittsburgh|0
+2682|Philadelphia|4
+2683|NY Jets|3
+2684|Jacksonville|1
+2685|Dallas|0
+2686|Detroit|3
+2687|New Orleans|3
+2688|Carolina|3
+2689|Tennessee|0
+2690|Indianapolis|1
+2691|Denver|2
+2692|Buffalo|2
+2693|Cleveland|0
+2694|Kansas City|4
+2695|Green Bay|2
+2696|Minnesota|0
+2697|Houston|3
+2698|Chicago|1
+2699|Denver|4
+2700|LA Rams|3
+2701|Atlanta|4
+2702|Miami|1
+2703|Dallas|3
+2704|San Francisco|2
+2705|Seattle|4
+2706|Cincinnati|2
+2707|New Orleans|3
+2708|Tampa Bay|4
+2709|Chicago|2
+2710|Jacksonville|2
+2711|Arizona|1
+2712|Tennessee|1
+2713|Baltimore|1
+2714|Buffalo|3
+2715|Pittsburgh|3
+2716|Miami|0
+2717|Philadelphia|0
+2718|New England|1
+2719|Green Bay|2
+2720|Houston|2
+2721|Minnesota|2
+2722|Washington|4
+2723|Pittsburgh|0
+2724|LA Chargers|1
+2725|Tennessee|2
+2726|LA Rams|0
+2727|San Francisco|1
+2728|Cincinnati|2
+2729|Arizona|2
+2730|Jacksonville|0
+2731|NY Giants|0
+2732|Seattle|1
+2733|New England|4
+2734|Carolina|0
+2735|Kansas City|2
+2736|Green Bay|2
+2737|Dallas|1
+2738|LA Rams|1
+2739|Houston|0
+2740|San Francisco|2
+2741|Detroit|5
+2742|Denver|2
+2743|Miami|1
+2744|Philadelphia|1
+2745|Kansas City|0
+2746|Buffalo|1
+2747|Washington|3
+2748|Tampa Bay|3
+2749|NY Giants|0
+2750|Carolina|0
+2751|Indianapolis|2
+2752|Oakland|2
+2753|Denver|1
+2754|Houston|5
+2755|Minnesota|4
+2756|Cincinnati|2
+2757|Washington|1
+2758|Pittsburgh|2
+2759|Arizona|2
+2760|LA Chargers|1
+2761|Chicago|1
+2762|NY Jets|3
+2763|Atlanta|0
+2764|New Orleans|3
+2765|Seattle|1
+2766|Dallas|1
+2767|Baltimore|4
+2768|LA Rams|1
+2769|Miami|0
+2770|Green Bay|3
+2771|Indianapolis|2
+2772|Pittsburgh|6
+2773|Philadelphia|4
+2774|Jacksonville|2
+2775|Tennessee|2
+2776|Cleveland|2
+2777|Detroit|2
+2778|New Orleans|2
+2779|San Francisco|0
+2780|New England|3
+2781|Oakland|4
+2782|Tampa Bay|2
+2783|Carolina|5
+2784|NY Giants|4
+2785|Minnesota|2
+2786|Miami|3
+2787|LA Chargers|3
+2788|Tennessee|1
+2789|Washington|2
+2790|Atlanta|5
+2791|NY Jets|2
+2792|Indianapolis|1
+2793|Arizona|3
+2794|San Francisco|0
+2795|Tampa Bay|1
+2796|Cincinnati|2
+2797|Baltimore|4
+2798|Denver|1
+2799|Detroit|1
+2800|Baltimore|1
+2801|Dallas|2
+2802|Carolina|4
+2803|New England|3
+2804|Buffalo|1
+2805|Cleveland|2
+2806|Chicago|1
+2807|Houston|2
+2808|Jacksonville|4
+2809|New Orleans|2
+2810|NY Giants|2
+2811|Seattle|4
+2812|Arizona|3
+2813|Oakland|0
+2814|Kansas City|3
+2815|Green Bay|1
+2816|Denver|0
+2817|Baltimore|2
+2818|Jacksonville|3
+2819|New Orleans|4
+2820|NY Jets|4
+2821|Philadelphia|3
+2822|Houston|3
+2823|Kansas City|2
+2824|Atlanta|3
+2825|Tennessee|1
+2826|Seattle|2
+2827|Dallas|4
+2828|Indianapolis|2
+2829|Arizona|1
+2830|Washington|3
+2831|San Francisco|0
+2832|Buffalo|1
+2833|Detroit|2
+2834|Pittsburgh|1
+2835|Cleveland|1
+2836|Houston|5
+2837|New England|2
+2838|Washington|3
+2839|NY Giants|4
+2840|Carolina|4
+2841|Arizona|2
+2842|LA Rams|3
+2843|Oakland|1
+2844|Denver|5
+2845|LA Chargers|1
+2846|Minnesota|1
+2847|Chicago|1
+2848|New England|2
+2849|Jacksonville|2
+2850|Carolina|2
+2851|Green Bay|2
+2852|NY Giants|2
+2853|Cincinnati|1
+2854|Buffalo|2
+2855|Miami|1
+2856|Tennessee|1
+2857|Tampa Bay|1
+2858|Seattle|3
+2859|Philadelphia|2
+2860|Indianapolis|2
+2861|Kansas City|1
+2862|Dallas|2
+2863|New Orleans|1
+2864|Cincinnati|5
+2865|Jacksonville|3
+2866|Chicago|2
+2867|New England|1
+2868|Houston|3
+2869|Baltimore|2
+2870|NY Jets|1
+2871|Atlanta|2
+2872|Washington|1
+2873|Tampa Bay|0
+2874|San Francisco|1
+2875|LA Chargers|2
+2876|Arizona|2
+2877|Pittsburgh|0
+2878|Minnesota|2
+2879|San Francisco|0
+2880|Miami|1
+2881|Cleveland|0
+2882|Detroit|1
+2883|Indianapolis|5
+2884|Pittsburgh|1
+2885|Baltimore|1
+2886|Minnesota|1
+2887|Denver|3
+2888|Dallas|0
+2889|LA Rams|4
+2890|Oakland|5
+2891|Green Bay|3
+2892|Carolina|1
+2893|LA Chargers|4
+2894|Detroit|1
+2895|Chicago|3
+2896|Miami|5
+2897|New England|2
+2898|Buffalo|1
+2899|Tennessee|1
+2900|NY Giants|2
+2901|Washington|2
+2902|New Orleans|3
+2903|Oakland|2
+2904|Green Bay|3
+2905|Seattle|3
+2906|Houston|2
+2907|Arizona|0
+2908|Green Bay|3
+2909|LA Rams|1
+2910|Jacksonville|3
+2911|Philadelphia|2
+2912|Detroit|3
+2913|Tennessee|2
+2914|Cincinnati|3
+2915|Miami|2
+2916|Kansas City|2
+2917|NY Jets|2
+2918|Atlanta|4
+2919|San Francisco|1
+2920|Pittsburgh|5
+2921|Arizona|4
+2922|Denver|2
+2923|Tennessee|3
+2924|Cincinnati|1
+2925|Carolina|3
+2926|Cleveland|2
+2927|Buffalo|2
+2928|Tampa Bay|1
+2929|Indianapolis|0
+2930|New Orleans|4
+2931|Houston|2
+2932|Denver|2
+2933|Atlanta|2
+2934|Dallas|3
+2935|Chicago|2
+2936|Tampa Bay|0
+2937|Baltimore|2
+2938|NY Giants|0
+2939|Miami|2
+2940|Kansas City|4
+2941|Cleveland|2
+2942|Minnesota|2
+2943|San Francisco|3
+2944|LA Rams|3
+2945|LA Chargers|3
+2946|Green Bay|3
+2947|Oakland|4
+2948|Seattle|1
+2949|Baltimore|2
+2950|Carolina|1
+2951|Tennessee|2
+2952|Washington|4
+2953|Jacksonville|2
+2954|Tampa Bay|2
+2955|New Orleans|1
+2956|NY Jets|0
+2957|Philadelphia|5
+2958|LA Chargers|1
+2959|Pittsburgh|3
+2960|Arizona|3
+2961|New England|1
+2962|NY Giants|0
+2963|Carolina|3
+2964|Kansas City|1
+2965|NY Giants|1
+2966|Detroit|2
+2967|Minnesota|1
+2968|Indianapolis|2
+2969|Dallas|2
+2970|Cincinnati|0
+2971|Cleveland|1
+2972|LA Rams|2
+2973|Seattle|3
+2974|San Francisco|1
+2975|Washington|1
+2976|Oakland|2
+2977|Detroit|3
+2978|Dallas|1
+2979|Indianapolis|1
+2980|Houston|2
+2981|Chicago|0
+2982|New Orleans|0
+2983|Miami|1
+2984|Baltimore|4
+2985|Atlanta|1
+2986|Buffalo|0
+2987|Cleveland|2
+2988|Tampa Bay|1
+2989|NY Jets|2
+2990|Oakland|2
+2991|Denver|3
+2992|Philadelphia|2
+2993|Minnesota|3
+2994|New England|4
+2995|Green Bay|0
+2996|Chicago|1
+2997|New Orleans|2
+2998|Jacksonville|1
+2999|Baltimore|1
+3000|Cincinnati|4
+3001|Atlanta|3
+3002|Oakland|3
+3003|Arizona|2
+3004|LA Chargers|1
+3005|Pittsburgh|3
+3006|Seattle|4
+3007|NY Jets|1
+3008|Kansas City|0
+3009|Tennessee|2
+3010|Indianapolis|2
+3011|Jacksonville|5
+3012|Cleveland|1
+3013|Philadelphia|3
+3014|Buffalo|0
+3015|Miami|1
+3016|Carolina|4
+3017|Detroit|2
+3018|San Francisco|3
+3019|LA Rams|0
+3020|Tampa Bay|3
+3021|Green Bay|2
+3022|NY Giants|1
+3023|New England|0
+3024|Seattle|1
+3025|NY Jets|2
+3026|Chicago|2
+3027|Minnesota|0
+3028|Cincinnati|2
+3029|Baltimore|2
+3030|Houston|4
+3031|Kansas City|1
+3032|Buffalo|2
+3033|NY Giants|1
+3034|Arizona|1
+3035|Atlanta|2
+3036|Denver|1
+3037|LA Chargers|1
+3038|Dallas|6
+3039|Washington|3
+3040|Philadelphia|1
+3041|Green Bay|1
+3042|Buffalo|3
+3043|Cleveland|2
+3044|Jacksonville|4
+3045|Chicago|1
+3046|Carolina|3
+3047|New England|2
+3048|Oakland|0
+3049|Seattle|2
+3050|LA Rams|0
+3051|New Orleans|3
+3052|Houston|2
+3053|Pittsburgh|1
+3054|Kansas City|3
+3055|Dallas|0
+3056|Cincinnati|2
+3057|Philadelphia|3
+3058|Tampa Bay|3
+3059|Miami|0
+3060|NY Jets|3
+3061|Pittsburgh|0
+3062|Minnesota|1
+3063|Tennessee|1
+3064|Indianapolis|2
+3065|Atlanta|1
+3066|Washington|2
+3067|San Francisco|0
+3068|LA Rams|2
+3069|Denver|2
+3070|LA Chargers|2
+3071|Detroit|2
+3072|Kansas City|0
+3073|Pittsburgh|0
+3074|Baltimore|2
+3075|Philadelphia|3
+3076|Arizona|2
+3077|Jacksonville|4
+3078|Oakland|4
+3079|Atlanta|3
+3080|NY Jets|2
+3081|Indianapolis|2
+3082|Carolina|3
+3083|Seattle|3
+3084|NY Giants|1
+3085|New Orleans|4
+3086|LA Chargers|1
+3087|Houston|2
+3088|Minnesota|1
+3089|Chicago|0
+3090|Cleveland|1
+3091|Tennessee|3
+3092|Philadelphia|3
+3093|Arizona|4
+3094|New England|3
+3095|Buffalo|1
+3096|Miami|4
+3097|NY Jets|2
+3098|San Francisco|3
+3099|Dallas|1
+3100|Washington|3
+3101|Green Bay|1
+3102|Detroit|1
+3103|LA Rams|2
+3104|Baltimore|0
+3105|Miami|0
+3106|Atlanta|3
+3107|Denver|3
+3108|Tampa Bay|1
+3109|Pittsburgh|2
+3110|New Orleans|3
+3111|Cleveland|0
+3112|Houston|4
+3113|NY Giants|1
+3114|Seattle|0
+3115|Kansas City|1
+3116|Cincinnati|2
+3117|Oakland|1
+3118|Dallas|0
+3119|Chicago|1
+3120|New Orleans|3
+3121|Jacksonville|3
+3122|LA Rams|7
+3123|Detroit|3
+3124|Pittsburgh|3
+3125|Buffalo|3
+3126|Carolina|2
+3127|Cincinnati|1
+3128|Tennessee|0
+3129|NY Giants|2
+3130|Philadelphia|4
+3131|San Francisco|5
+3132|Oakland|1
+3133|Indianapolis|1
+3134|Washington|2
+3135|New England|4
+3136|Tennessee|1
+3137|Carolina|3
+3138|Arizona|1
+3139|Jacksonville|1
+3140|LA Chargers|2
+3141|San Francisco|3
+3142|Buffalo|3
+3143|NY Jets|1
+3144|Baltimore|3
+3145|Seattle|3
+3146|Green Bay|1
+3147|Kansas City|5
+3148|Minnesota|2
+3149|Philadelphia|2
+3150|Miami|2
+3151|Cleveland|1
+3152|Chicago|2
+3153|Detroit|2
+3154|San Francisco|2
+3155|Green Bay|1
+3156|New England|2
+3157|Tampa Bay|0
+3158|LA Rams|2
+3159|LA Chargers|2
+3160|Pittsburgh|1
+3161|NY Giants|4
+3162|Indianapolis|3
+3163|Kansas City|3
+3164|NY Jets|0
+3165|Tampa Bay|2
+3166|Jacksonville|2
+3167|Tennessee|5
+3168|Baltimore|3
+3169|Carolina|1
+3170|Arizona|1
+3171|New Orleans|2
+3172|Dallas|0
+3173|Cincinnati|0
+3174|Denver|0
+3175|Seattle|1
+3176|Atlanta|2
+3177|Washington|1
+3178|Miami|1
+3179|Minnesota|4
+3180|Oakland|0
+3181|Atlanta|4
+3182|Indianapolis|3
+3183|San Francisco|2
+3184|LA Chargers|1
+3185|Chicago|3
+3186|Carolina|1
+3187|Houston|1
+3188|Dallas|5
+3189|Pittsburgh|2
+3190|Denver|2
+3191|Buffalo|0
+3192|LA Rams|3
+3193|Baltimore|2
+3194|Tampa Bay|2
+3195|Atlanta|1
+3196|Cincinnati|0
+3197|Denver|3
+3198|Indianapolis|2
+3199|Arizona|3
+3200|Washington|1
+3201|Kansas City|1
+3202|Oakland|2
+3203|Detroit|4
+3204|Seattle|2
+3205|Cincinnati|0
+3206|New Orleans|2
+3207|Green Bay|4
+3208|Minnesota|1
+3209|LA Chargers|1
+3210|Cleveland|1
+3211|NY Jets|1
+3212|Pittsburgh|3
+3213|Houston|1
+3214|NY Giants|3
+3215|Dallas|1
+3216|New England|2
+3217|Miami|0
+3218|Tennessee|2
+3219|Detroit|2
+3220|LA Rams|0
+3221|Kansas City|3
+3222|Baltimore|3
+3223|Jacksonville|3
+3224|Washington|1
+3225|Arizona|0
+3226|Tampa Bay|4
+3227|Buffalo|1
+3228|Cincinnati|0
+3229|New England|4
+3230|Philadelphia|1
+3231|Atlanta|2
+3232|Minnesota|2
+3233|LA Chargers|2
+3234|NY Giants|1
+3235|Buffalo|4
+3236|Chicago|2
+3237|Carolina|3
+3238|Tampa Bay|2
+3239|Cleveland|4
+3240|Tennessee|2
+3241|Miami|1
+3242|Seattle|2
+3243|Denver|0
+3244|New Orleans|2
+3245|Jacksonville|1
+3246|Green Bay|1
+3247|Houston|3
+3248|Washington|0
+3249|Indianapolis|1
+3250|Houston|4
+3251|New England|3
+3252|Kansas City|2
+3253|Detroit|1
+3254|San Francisco|5
+3255|Denver|1
+3256|Minnesota|0
+3257|Tampa Bay|2
+3258|Cleveland|1
+3259|LA Rams|4
+3260|Carolina|0
+3261|NY Giants|1
+3262|Philadelphia|1
+3263|Pittsburgh|3
+3264|New Orleans|1
+3265|Minnesota|4
+3266|Dallas|3
+3267|San Francisco|4
+3268|Indianapolis|2
+3269|Oakland|0
+3270|Detroit|1
+3271|Green Bay|0
+3272|Chicago|2
+3273|NY Jets|0
+3274|Washington|0
+3275|Tennessee|1
+3276|Seattle|2
+3277|Philadelphia|3
+3278|Baltimore|1
+3279|New England|2
+3280|Denver|2
+3281|Chicago|1
+3282|LA Chargers|0
+3283|Miami|3
+3284|NY Jets|2
+3285|Baltimore|2
+3286|Cincinnati|0
+3287|Philadelphia|2
+3288|Green Bay|1
+3289|Arizona|5
+3290|Houston|0
+3291|LA Rams|2
+3292|Tennessee|3
+3293|New England|2
+3294|Dallas|2
+3295|Atlanta|2
+3296|Indianapolis|5
+3297|Minnesota|3
+3298|Denver|1
+3299|LA Chargers|1
+3300|Buffalo|4
+3301|Miami|3
+3302|Detroit|2
+3303|Cleveland|1
+3304|Tampa Bay|5
+3305|Atlanta|2
+3306|LA Rams|1
+3307|Jacksonville|1
+3308|Seattle|0
+3309|NY Giants|1
+3310|Pittsburgh|2
+3311|Oakland|2
+3312|Houston|2
+3313|NY Jets|3
+3314|Green Bay|1
+3315|Dallas|1
+3316|Cleveland|1
+3317|Washington|2
+3318|Chicago|1
+3319|San Francisco|2
+3320|Arizona|4
+3321|New Orleans|1
+3322|Kansas City|2
+3323|Buffalo|3
+3324|Oakland|1
+3325|Jacksonville|1
+3326|Cincinnati|1
+3327|Carolina|1
+3328|New England|2
+3329|Cleveland|1
+3330|Cincinnati|0
+3331|Washington|1
+3332|Detroit|1
+3333|Houston|0
+3334|Tennessee|4
+3335|Chicago|1
+3336|Buffalo|1
+3337|LA Rams|3
+3338|San Francisco|1
+3339|Green Bay|1
+3340|Dallas|4
+3341|Minnesota|3
+3342|Denver|2
+3343|Cincinnati|3
+3344|Pittsburgh|4
+3345|Tampa Bay|3
+3346|Baltimore|2
+3347|Jacksonville|1
+3348|Kansas City|2
+3349|Indianapolis|2
+3350|New Orleans|3
+3351|Carolina|3
+3352|LA Chargers|3
+3353|Oakland|1
+3354|Seattle|2
+3355|Denver|1
+3356|LA Rams|2
+3357|Atlanta|2
+3358|NY Giants|1
+3359|San Francisco|2
+3360|Jacksonville|3
+3361|NY Jets|3
+3362|Detroit|4
+3363|Buffalo|4
+3364|Minnesota|2
+3365|Chicago|2
+3366|Carolina|2
+3367|Indianapolis|1
+3368|New England|0
+3369|Philadelphia|3
+3370|Tennessee|4
+3371|LA Chargers|1
+3372|Green Bay|2
+3373|Washington|3
+3374|Arizona|2
+3375|Green Bay|0
+3376|Miami|0
+3377|NY Jets|4
+3378|Dallas|1
+3379|Minnesota|1
+3380|Baltimore|2
+3381|Atlanta|1
+3382|New England|3
+3383|Cleveland|1
+3384|Houston|3
+3385|Tampa Bay|4
+3386|LA Chargers|1
+3387|Arizona|4
+3388|Denver|4
+3389|Seattle|2
+3390|Kansas City|4
+3391|Tampa Bay|3
+3392|Miami|1
+3393|Detroit|1
+3394|Philadelphia|2
+3395|Pittsburgh|3
+3396|NY Giants|0
+3397|Indianapolis|4
+3398|Cincinnati|2
+3399|Cleveland|2
+3400|Oakland|1
+3401|LA Rams|2
+3402|Dallas|1
+3403|Houston|0
+3404|Chicago|0
+3405|Carolina|3
+3406|Atlanta|2
+3407|Houston|1
+3408|Baltimore|3
+3409|New Orleans|1
+3410|Washington|2
+3411|Minnesota|3
+3412|NY Jets|1
+3413|Arizona|1
+3414|Jacksonville|3
+3415|Oakland|1
+3416|Kansas City|2
+3417|Denver|3
+3418|Tennessee|5
+3419|Oakland|3
+3420|Miami|1
+3421|Buffalo|4
+3422|Indianapolis|0
+3423|Cleveland|3
+3424|Minnesota|6
+3425|Chicago|2
+3426|LA Rams|4
+3427|Green Bay|2
+3428|San Francisco|1
+3429|Pittsburgh|5
+3430|LA Chargers|0
+3431|NY Giants|1
+3432|New England|3
+3433|Philadelphia|3
+3434|Baltimore|3
+3435|Cleveland|2
+3436|Buffalo|2
+3437|NY Jets|4
+3438|Cincinnati|2
+3439|Philadelphia|2
+3440|New England|6
+3441|New Orleans|2
+3442|Tampa Bay|1
+3443|Seattle|2
+3444|Washington|3
+3445|Detroit|5
+3446|Kansas City|5
+3447|NY Jets|2
+3448|NY Giants|2
+3449|Tennessee|1
+3450|New Orleans|2
+3451|Carolina|2
+3452|Jacksonville|3
+3453|Philadelphia|1
+3454|Houston|1
+3455|San Francisco|1
+3456|Seattle|3
+3457|Dallas|0
+3458|Miami|1
+3459|Green Bay|2
+3460|Arizona|1
+3461|Tennessee|2
+3462|Buffalo|1
+3463|Chicago|3
+3464|Washington|3
+3465|Jacksonville|2
+3466|Detroit|1
+3467|Tampa Bay|3
+3468|Indianapolis|1
+3469|LA Rams|4
+3470|San Francisco|1
+3471|Atlanta|2
+3472|Denver|3
+3473|Carolina|1
+3474|Pittsburgh|4
+3475|Chicago|2
+3476|Minnesota|3
+3477|NY Giants|2
+3478|Green Bay|0
+3479|Cleveland|0
+3480|New Orleans|4
+3481|Houston|1
+3482|Miami|2
+3483|LA Chargers|5
+3484|Denver|2
+3485|Oakland|0
+3486|Dallas|3
+3487|Seattle|4
+3488|Detroit|3
+3489|Dallas|0
+3490|Washington|2
+3491|Kansas City|1
+3492|Philadelphia|1
+3493|NY Jets|2
+3494|Atlanta|2
+3495|Cincinnati|3
+3496|Indianapolis|3
+3497|New England|0
+3498|San Francisco|2
+3499|Oakland|1
+3500|LA Rams|5
+3501|Arizona|4
+3502|Pittsburgh|1
+3503|Baltimore|3
+3504|Dallas|1
+3505|Jacksonville|3
+3506|Tennessee|2
+3507|Buffalo|1
+3508|NY Jets|3
+3509|Baltimore|3
+3510|Chicago|0
+3511|Miami|1
+3512|Atlanta|4
+3513|Green Bay|2
+3514|LA Chargers|5
+3515|Arizona|2
+3516|New Orleans|2
+3517|Oakland|1
+3518|Seattle|1
+3519|Cincinnati|2
+3520|Atlanta|2
+3521|Carolina|1
+3522|NY Giants|1
+3523|Houston|2
+3524|Buffalo|0
+3525|Kansas City|4
+3526|Tampa Bay|0
+3527|Cleveland|0
+3528|Cincinnati|0
+3529|Denver|4
+3530|LA Chargers|3
+3531|Arizona|5
+3532|Jacksonville|3
+3533|LA Rams|0
+3534|Pittsburgh|4
+3535|Miami|2
+3536|Indianapolis|2
+3537|Detroit|2
+3538|Kansas City|4
+3539|Buffalo|1
+3540|New Orleans|1
+3541|Cleveland|1
+3542|Minnesota|2
+3543|NY Giants|2
+3544|Carolina|1
+3545|Washington|2
+3546|Jacksonville|1
+3547|Seattle|0
+3548|San Francisco|6
+3549|Pittsburgh|1
+3550|Oakland|2
+3551|Tampa Bay|1
+3552|Baltimore|3
+3553|Green Bay|0
+3554|Washington|2
+3555|NY Jets|0
+3556|New England|3
+3557|Kansas City|6
+3558|Cincinnati|4
+3559|Chicago|0
+3560|Carolina|3
+3561|New Orleans|3
+3562|Tennessee|4
+3563|San Francisco|1
+3564|Dallas|6
+3565|Arizona|1
+3566|Houston|0
+3567|Philadelphia|3
+3568|Indianapolis|2
+3569|New England|1
+3570|Detroit|2
+3571|Philadelphia|0
+3572|Pittsburgh|0
+3573|NY Giants|2
+3574|Minnesota|1
+3575|LA Rams|2
+3576|Seattle|2
+3577|Tampa Bay|1
+3578|Denver|1
+3579|Miami|1
+3580|LA Chargers|2
+3581|Tennessee|3
+3582|Baltimore|2
+3583|Atlanta|5
+3584|Atlanta|2
+3585|Tampa Bay|3
+3586|Cincinnati|2
+3587|Buffalo|2
+3588|Tennessee|2
+3589|Pittsburgh|1
+3590|Houston|2
+3591|San Francisco|3
+3592|Jacksonville|2
+3593|Kansas City|1
+3594|Seattle|2
+3595|Dallas|1
+3596|Washington|1
+3597|Chicago|3
+3598|NY Jets|2
+3599|LA Rams|4
+3600|Philadelphia|1
+3601|New Orleans|1
+3602|Indianapolis|4
+3603|Baltimore|2
+3604|Miami|2
+3605|Cleveland|1
+3606|New England|2
+3607|Minnesota|1
+3608|NY Giants|3
+3609|LA Chargers|3
+3610|Denver|2
+3611|Carolina|1
+3612|Arizona|0
+3613|Green Bay|1
+3614|Detroit|3
+3615|Oakland|2
