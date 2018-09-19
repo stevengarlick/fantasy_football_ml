@@ -22,7 +22,7 @@ for link in boxscores.findAll('a', href=True, text='boxscore'):
         hometm = td.get_text(strip=True)
     print(awaytm + ' vs ' + hometm)
     year = '2018'
-    path_to_extension = r'C:\Users\User1\1.16.18_0'
+    path_to_extension = r'C:\Users\s_garlick10\Desktop\1.16.18_0'
     chrome_options = Options()
     chrome_options.add_argument('load-extension=' + path_to_extension)
     driver = webdriver.Chrome(chrome_options=chrome_options)
@@ -100,4 +100,4 @@ for link in boxscores.findAll('a', href=True, text='boxscore'):
 
     record = [year, awaytm, hometm, roof, surface, temp, wind, spread, ou]
     df1 = df1.append(pd.DataFrame([record], columns = columns), ignore_index = True)
-    df1.to_csv('/Users/User1/ml-seed-data/2018spreads.csv', sep='|')
+    df1.to_csv('2018spreads.csv', sep='|')
